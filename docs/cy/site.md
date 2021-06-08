@@ -8,13 +8,15 @@
 
 - [Medium](https://medium.com/)
 
+- [Amazon](https://www.amazon.cn/)
+
 - [科学网](http://www.sciencenet.cn/)
 
 - [豆瓣读书](https://book.douban.com/)
 
-- [笨方法成事](https://hardwaylab.com/)
+- [TheStrive Studies](https://www.youtube.com/c/TheStriveStudies/featured)
 
-- [amazon](https://www.amazon.cn/)
+- [笨方法成事](https://hardwaylab.com/)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
