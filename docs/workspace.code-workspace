@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"editor.lineHighlightBackground": "#0bec8e59",
+			"editor.lineHighlightBorder": "#a6a6c42d"
+		},
+		"files.autoSave": "onFocusChange"
+	}
+}
