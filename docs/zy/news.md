@@ -6,6 +6,4 @@
 
 - [湾区日报](https://wanqu.co/issues/)
 
-- [睿读网](https://witreader.com/)
-
 - [全现在](https://www.allnow.com/)
