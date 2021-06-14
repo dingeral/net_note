@@ -16,8 +16,6 @@
 
 - [TheStrive Studies](https://www.youtube.com/c/TheStriveStudies/featured)
 
-- [笨方法成事](https://hardwaylab.com/)
-
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
