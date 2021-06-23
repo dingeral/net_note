@@ -19,6 +19,7 @@
         "editor.lineHighlightBorder": "#a6a6c42d"
     },
     "files.autoSave": "onFocusChange",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "gitdoc.enabled": true
     
 }
