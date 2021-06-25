@@ -20,6 +20,11 @@
     },
     "files.autoSave": "onFocusChange",
     "editor.wordWrap": "on",
-    "gitdoc.enabled": true
+    "gitdoc.enabled": true,
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ]
     
 }
