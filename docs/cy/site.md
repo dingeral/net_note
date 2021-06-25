@@ -1,6 +1,6 @@
 - [Twitter](https://twitter.com/)
 
-- [GitHub](https://github.com/)
+- [GitHub](https://github.com/dingeral)
 
 - [深度论坛](https://bbs.deepin.org/)
 
