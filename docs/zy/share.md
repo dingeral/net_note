@@ -8,6 +8,7 @@
 
 - [随缘分享](https://syfx.herokuapp.com/syfx)
   - [IMDB TOP250](https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/IMDB%20TOP250/)
+  - [吉卜力作品合集1979-2016](https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/%E5%90%89%E5%8D%9C%E5%8A%9B%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%861979-2016/)
   - []()
 
 - [青柠の藏经阁](https://spcn.cyanlemon.net/onedrive/)
