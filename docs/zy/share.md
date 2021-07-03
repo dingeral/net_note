@@ -8,8 +8,8 @@
 
 - [随缘分享](https://syfx.herokuapp.com/syfx)
   - [IMDB TOP250](https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/IMDB%20TOP250/)
-  - [吉卜力作品合集1979-2016](https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/%E5%90%89%E5%8D%9C%E5%8A%9B%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%861979-2016/)
-  - []()
+  - [吉卜力作品合集 1979-2016](https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/%E5%90%89%E5%8D%9C%E5%8A%9B%E4%BD%9C%E5%93%81%E5%90%88%E9%9B%861979-2016/)
+  - [豆瓣电影评分前 100部][豆瓣电影评分前100部]
 
 - [青柠の藏经阁](https://spcn.cyanlemon.net/onedrive/)
 
@@ -29,4 +29,4 @@
 
 - Andy 电子书（>100G） `B2YZTLQJYCRWAM4LJLWBZWH7EEYU25J3T`
 
-[]:https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E5%89%8D100%E9%83%A8/
+[豆瓣电影评分前100部]:https://syfx.herokuapp.com/syfx/%E6%9C%AA%E5%BD%92%E6%A1%A3/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E8%AF%84%E5%88%86%E5%89%8D100%E9%83%A8/
