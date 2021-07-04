@@ -4,7 +4,7 @@
 
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
 
-- [随缘分享]([6]
+- [随缘分享[6]
   - [IMDB TOP250][1]
   - [吉卜力作品合集 1979-2016][2]
   - [豆瓣电影评分前 100部][3]
