@@ -45,7 +45,7 @@ div#app:empty::before {
 .search .search-keyword {
   color: var(--theme-color, #42b983);
   font-style: normal;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 html,
 body {
@@ -369,7 +369,7 @@ body.sticky .sidebar-toggle {
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
-  font-weight: bold;
+  /* font-weight: bold; */
   left: -12px;
   line-height: 20px;
   position: absolute;
@@ -842,7 +842,7 @@ body {
 }
 .token.important,
 .token.bold {
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 .token.important {
   color: #c94922;
