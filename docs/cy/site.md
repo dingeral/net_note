@@ -2,23 +2,15 @@
 
 - [GitHub](https://github.com/dingeral)
 
-- [深度论坛](https://bbs.deepin.org/)
-
 - [Quora](https://www.quora.com/)
 
 - [Medium](https://medium.com/)
 
 - [Amazon](https://www.amazon.cn/)
 
-- [科学网](http://www.sciencenet.cn/)
-
-- [豆瓣读书](https://book.douban.com/)
-
 - [TheStrive Studies](https://www.youtube.com/c/TheStriveStudies/featured)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
-
-- [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
 
 - [lesswrong](https://www.lesswrong.com/)
 
