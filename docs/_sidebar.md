@@ -32,7 +32,7 @@
     - [分享](/zy/share.md)
 
 - ⚙️ 工具
-    - [搜索](/zy/s&d.md)
+    - [搜索](/tools/s&d.md)
     - [利刃](tools/利刃.md)
     - [集装箱](/tools/a1.md)
     - [git SF](/tools/a2.md)
