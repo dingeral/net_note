@@ -1,4 +1,4 @@
-- [谷歌](https://www.google.com/)
+- [Google](https://www.google.com/)
 
 - [维基百科](https://zh.wikipedia.org/) 
 
@@ -24,6 +24,6 @@
 
 - [浙江图书馆](http://www.zjlib.cn/)
 
-- [wikihow](https://zh.wikihow.com/)
+- [wikiHow](https://zh.wikihow.com/)
 
 - [语雀](https://www.yuque.com/)
