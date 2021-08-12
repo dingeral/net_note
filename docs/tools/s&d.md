@@ -12,6 +12,8 @@
 
 - [Library Mirror](https://www.library.ac.cn/)
 
+- [豆瓣](https://www.douban.com/)
+
 - [无歌](https://g.dingeral.com/)
 
 - [维基教科书](https://zh.m.wikibooks.org/wiki/Wikibooks:%E9%A6%96%E9%A1%B5)
