@@ -10,4 +10,4 @@
 
 - [52破解](https://www.52pojie.cn/)
 
-- [什么值得买](https://www.smzdm.com/)：认真生活，好好花钱
+- [什么值得买](https://www.smzdm.com/)
