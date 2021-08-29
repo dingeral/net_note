@@ -6,8 +6,6 @@
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
 
-- [儿童搜索引擎](https://kidssearch.com/)
-
 - [Timelapse](http://goo.gle/timelapse)
 
 - [Library Mirror](https://www.library.ac.cn/)
@@ -31,3 +29,5 @@
 - [淘宝购物券](http://quan.mmfad.com/)
 
 - [语雀](https://www.yuque.com/)
+
+- [儿童搜索引擎](https://kidssearch.com/)
