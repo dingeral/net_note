@@ -12,8 +12,8 @@
 
 ### 视觉
 
-![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php)
-<!-- ![随机图片](https://goodshare.dingeral.com/%F0%9F%A7%A9%20%E5%9B%BE%E7%89%87/%E2%9C%A8%20%E5%A3%81%E7%BA%B8/wallhaven-g77qze.png?raw ':size=83%') -->
+<!-- ![随机图片](https://api.ixiaowai.cn/gqapi/gqapi.php) -->
+![随机图片](https://goodshare.dingeral.com/%F0%9F%A7%A9%20%E5%9B%BE%E7%89%87/%E2%9C%A8%20%E5%A3%81%E7%BA%B8/wallhaven-wqleep.jpg?raw)
 
 ### 目录
 -- 📑 [主页](/)  
