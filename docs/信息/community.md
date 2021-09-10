@@ -4,6 +4,8 @@
 
 - [深度论坛](https://bbs.deepin.org/)
 
+- [虫部落](http://www.chongbuluo.com/)
+
 - [豆瓣读书](https://book.douban.com/)
 
 - [科学网](http://www.sciencenet.cn/)
