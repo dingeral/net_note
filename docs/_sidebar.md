@@ -38,6 +38,8 @@
     - [集装箱](/tools/a1.md)
     - [git SF](/tools/a2.md)
     - [好物](tools/好物.md)
+- 🧩 休息
+    - [游戏](/rest/游戏.md)
 <!-- - 🔭 碎片
     - [字体](车库/字体.md)
     - [hot](车库/hot.md)
