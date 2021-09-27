@@ -4,7 +4,7 @@
 
 - [深度论坛](https://bbs.deepin.org/)
 
-- [虫部落](http://www.chongbuluo.com/)
+- [虫部落](https://www.chongbuluo.com/)
 
 - [豆瓣读书](https://book.douban.com/)
 
