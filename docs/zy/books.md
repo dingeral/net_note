@@ -1,6 +1,7 @@
 ### 推荐
 
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
+- [Goodreads](goodreads.com)
 
 ### 找书
 
