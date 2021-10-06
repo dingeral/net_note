@@ -7,6 +7,7 @@
 - [轻谈浅唱][轻谈浅唱]
 - [ANEEO 博客资源网盘](https://od.aneeo.com/home)
 - [天翼小站](https://yun.hei521.cn/)
+- [优雅地上网](/车库/优雅地上网.md)
 
 ## Sync
 
