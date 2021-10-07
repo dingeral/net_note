@@ -8,11 +8,17 @@
 
 ### 一言 古诗词
 
-<div align=left><img src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"/></div>
+<!-- <div align=left><img src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"/></div> -->
+
+<!-- ![今日诗词](https://v2.jinrishici.com/one.svg) -->
+
+<img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;">
 
 ### 视觉
 
-<img src="http://bing.creepersan.com/api/v1/random" />
+<!-- <img src="https://bing.ioliu.cn/v1/rand?w=1920&h=1200" /> -->
+
+![creepersan](https://bing.ioliu.cn/v1/rand?w=1920&h=1080)
 
 ### 目录
 -- 📑 [主页](/)  
@@ -23,8 +29,7 @@
     - [阅读](/cy/阅读.md)
     - [博客](/cy/博客.md)
     - [问答|文章](/cy/问答_文章.md)
-    - [电子书](/cy/电子书.md)
-    - [公众号](/cy/wxgzh.md)  
+    - [电子书](/cy/电子书.md)  
 |  
 -- 📃 信息  
 |  
