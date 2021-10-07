@@ -14,11 +14,6 @@
 
 <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;">
 
-### 视觉
-
-<!-- <img src="https://bing.ioliu.cn/v1/rand?w=1920&h=1200" /> -->
-
-![creepersan](https://bing.ioliu.cn/v1/rand?w=1920&h=1080)
 
 ### 目录
 -- 📑 [主页](/)  
