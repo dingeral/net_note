@@ -54,3 +54,6 @@
 
 
 
+  <div class="aplayer" data-id="28267550" data-server="netease" data-type="song" 
+  data-volume="0.1" data-order="random" data-loop="none"
+  data-autoplay="true" data-mini="true" data-list-max-height="100px" ></div>
