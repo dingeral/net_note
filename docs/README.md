@@ -57,3 +57,6 @@
     - [git SF](/tools/a2.md)
     - [好物](tools/好物.md)
 
+
+
+<div class="aplayer" data-id="002QE24W26baEy" data-server="tencent" data-type="album" data-fixed="true" data-autoplay="false" data-volume="1.0" data-list-max-height="200px" data-list-folded="true"></div>
