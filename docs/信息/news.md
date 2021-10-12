@@ -7,3 +7,11 @@
 - [湾区日报](https://wanqu.co/issues/)
 
 - [全现在](https://www.allnow.com/)
+
+### 杂志
+
+- [经济学人](https://emagazine.link/category/new/4)
+
+### 播客
+
+- 新闻酸菜馆
