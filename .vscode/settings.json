@@ -20,7 +20,7 @@
     },
     "files.autoSave": "afterDelay",
     "editor.wordWrap": "on",
-    "gitdoc.enabled": false,
+    "gitdoc.enabled": true,
     "spellright.language": [],
     "spellright.documentTypes": [
         "latex",
