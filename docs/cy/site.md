@@ -6,8 +6,6 @@
 
 - [Amazon](https://www.amazon.cn/)
 
-- [TheStrive Studies](https://www.youtube.com/c/TheStriveStudies/featured)
-
 - [Greasy Fork](https://greasyfork.org/zh-CN)
 
 - [lesswrong](https://www.lesswrong.com/)
