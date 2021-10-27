@@ -8,4 +8,4 @@
 
 - [番茄工作法](https://alloytimer.vercel.app/)
 
-- [无歌](https://g.dingeral.com/)
+- [无歌](https://g.dingeral.com/)[.](https://cse.google.com/cse/setup/basic?cx=c006b467665f805e2)
