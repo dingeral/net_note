@@ -9,7 +9,6 @@
   - [书格](https://new.shuge.org/)：在线古籍图书馆
   - [中国哲学书电子化计划](https://ctext.org/zh)
 - 英文
-
   - [Library Genesis](http://libgen.rs)
   - [Z-Library](https://zh.z-lib.org/)
   - [古腾堡计划](http://www.gutenberg.org)
