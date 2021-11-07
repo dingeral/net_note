@@ -25,6 +25,8 @@
     "spellright.documentTypes": [
         "latex",
         "plaintext"
-    ]
-    
+    ],
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    },
 }
