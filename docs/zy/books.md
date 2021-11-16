@@ -18,6 +18,7 @@
 
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](goodreads.com)
+- [](https://weread.qq.com/)
 
 ### kindle 推送
 
