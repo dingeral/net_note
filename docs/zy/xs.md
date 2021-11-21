@@ -1,4 +1,4 @@
-## 文献网站
+## 学术网站
 
 - [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
 
@@ -31,3 +31,7 @@
   - [http://sci-hub.do](http://sci-hub.do)
 
   - [Sci-Hub bot](https://t.me/scihubot)
+
+## 综合
+
+- [超星云盘](http://pan-yz.chaoxing.com/pcuserpan/index)
