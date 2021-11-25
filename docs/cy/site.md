@@ -1,6 +1,6 @@
 - [Notion](https://www.notion.so/)：笔记软件
 
-- [](https://whimsical.com/)
+- [Whimsical](https://whimsical.com/)：简单思维导图，没有多余的
 
 
 
@@ -21,7 +21,9 @@
 
 
 
-- [GitHub](https://github.com/dingeral)
+
+
+<!-- - [GitHub](https://github.com/dingeral)
 
 - [Quora](https://www.quora.com/)
 
@@ -33,4 +35,4 @@
 
 - [lesswrong](https://www.lesswrong.com/)
 
-- [XKCD](https://xkcd.in/)：XKCD中文站，一个关于浪漫、隐喻、数字、以及语言的线上漫画。
+- [XKCD](https://xkcd.in/)：XKCD中文站，一个关于浪漫、隐喻、数字、以及语言的线上漫画。 -->
