@@ -27,7 +27,13 @@
         "plaintext"
     ],
     "workbench.editorAssociations": {
-        "*.md": "default"
+        "*.doc": "default",
+        "*.md": "default",
+        "*.pdf": "latex-workshop-pdf-hook",
+        "*.mobi": "default",
+        "*.mp3": "default",
+        "*.jpg": "default",
+        "*.xmind": "default"
     },
     "editor.detectIndentation": false,
     "editor.tabSize": 4,
