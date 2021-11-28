@@ -2,8 +2,6 @@
 
 - [🍀 一叶](https://share.dingeral.com/)
 
-- [BT部落](https://www.btbtt12.com/)
-
 - [天翼小站](https://yun.hei521.cn/)
 
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
