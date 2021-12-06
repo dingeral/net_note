@@ -1,4 +1,3 @@
-- [Twitter](https://twitter.com/)
 
 - [V2EX](https://www.v2ex.com/)
 
@@ -6,4 +5,6 @@
 
 - [虫部落](https://www.chongbuluo.com/)
 
-- [科学网](http://www.sciencenet.cn)
+- [超理论坛](https://chaoli.club/index.php/)
+
+- [Twitter](https://twitter.com/)
