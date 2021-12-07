@@ -19,6 +19,8 @@
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](goodreads.com)
 - [微信读书](https://weread.qq.com/)
+- [reddit 用户在读哪些书？](https://www.redditreads.com/)
+- [HackerNews 书籍推荐](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 
 ### kindle 推送
 
