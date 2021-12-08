@@ -8,12 +8,11 @@
 
 ### 一言 古诗词
 
-<!-- <div align=left><img src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"/></div> -->
+<div align=left><img src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"/></div>
 
 <!-- ![今日诗词](https://v2.jinrishici.com/one.svg) -->
 
-<img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;">
-
+<!-- <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;"> -->
 
 ### 目录
 -- 📑 [主页](/)  
