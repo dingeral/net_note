@@ -3,9 +3,7 @@
 - 中文
   - [LoreFree](https://ebook2.lorefree.com/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
-  - [豆瓣读书](https://book.douban.com)
-  - [书伴](https://bookfere.com/)
-  - [小声读书](https://t.me/weekly_books)
+  - [书籍知识库](https://book.zhishikoo.com/)
   - [书格](https://new.shuge.org/)：在线古籍图书馆
   - [中国哲学书电子化计划](https://ctext.org/zh)
 - 英文
