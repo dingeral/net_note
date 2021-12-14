@@ -1,5 +1,3 @@
-- [晚点财经](https://xueqiu.com/u/1786904335)
-
 - [奇客Solidot](https://www.solidot.org/)
 
 - [黑客新闻](https://news.ycombinator.com) [👉](https://hn-omega.vercel.app/)
