@@ -27,8 +27,6 @@
 
 - [Quora](https://www.quora.com/)
 
-- [Medium](https://medium.com/)
-
 - [Amazon](https://www.amazon.cn/)
 
 - [Greasy Fork](https://greasyfork.org/zh-CN)
