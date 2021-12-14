@@ -2,7 +2,7 @@
 
 - [Whimsical](https://whimsical.com/)：简单思维导图，没有多余的
 
-- [推特](https://tweetdeck.twitter.com/)：听见世界的声音
+- [Twitter](https://tweetdeck.twitter.com/)：听见世界的声音
 
 
 
