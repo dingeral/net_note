@@ -1,7 +1,5 @@
 - [Notion](https://www.notion.so/)：笔记软件
 
-- [Whimsical](https://whimsical.com/)：简单思维导图，没有多余的
-
 - [Twitter](https://tweetdeck.twitter.com/)：听见世界的声音
 
 
