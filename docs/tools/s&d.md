@@ -8,8 +8,6 @@
 
 - [Timelapse](http://goo.gle/timelapse)
 
-- [Library Mirror](https://www.library.ac.cn/)
-
 - [无歌](https://g.dingeral.com/)
 
 - [虫部落](http://www.chongbuluo.com/)
@@ -19,5 +17,3 @@
 - [wikiHow](https://zh.wikihow.com/)
 
 - [淘宝购物券](http://quan.mmfad.com/)
-
-- [儿童搜索引擎](https://kidssearch.com/)
