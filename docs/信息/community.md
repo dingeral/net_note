@@ -8,3 +8,5 @@
 - [超理论坛](https://chaoli.club/index.php/)
 
 - [Twitter](https://twitter.com/)
+
+- [知乎](https://www.zhihu.com/explore)

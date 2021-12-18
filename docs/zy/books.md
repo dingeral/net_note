@@ -1,6 +1,7 @@
 ### 找书
 
 - 中文
+  - [豆瓣](https://www.douban.com/)
   - [LoreFree](https://ebook2.lorefree.com/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
   - [书籍知识库](https://book.zhishikoo.com/)
