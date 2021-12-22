@@ -72,41 +72,5 @@
                         <a href="https://oelist.youte.ml/">GONEList</a>|
                         <a href="https://ond.youte.ml/l">OneIndexN</a>| -->
 
-<span id="momk" style="-webkit-text-stroke: initial !important;">本站已运行：
-                        <span id="span_dt_dt" style="-webkit-text-stroke: initial !important;">256天17小时44分3秒</span>
-                        <p style="-webkit-text-stroke: initial !important;"></p>
- 
-</span>
-
-
-<span id="momk">本站已运行：
-                        <span id="span_dt_dt"></span>
-
-<div class="copy-text">
-     <p>本站已安全运行了
-     <span class="smalltxt">
-     <script>
-         var BirthDay=new Date("may 01,2020");//修改成你网站创建时间today=new Date();
-         var today=new Date();
-         var timeold=(today.getTime()-BirthDay.getTime());
-         var sectimeold=timeold/1000;
-         var secondsold=Math.floor(sectimeold);
-         var msPerDay=24*60*60*1000;
-         var e_daysold=timeold/msPerDay;
-         var daysold=Math.floor(e_daysold);
-         document.write(""+daysold+"天");
-     </script>
-     </span><p>
-</div>
-
-<span id="span"></span>
-
-
-<script language = "JavaScript"type = "text/javascript" >
-    //添加网站的上线时间
-    var urodz = new Date("11/18/2016");
-    var now = new Date();
-    var ile = now.getTime() - urodz.getTime();
-    var dni = Math.floor(ile / (1000 * 60 * 60 * 24));
-    document.write(dni+"天");
-</script>
+<center>
+<span id="momk">本站已运行：<span id="span_dt_dt"></span>
