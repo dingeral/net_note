@@ -54,10 +54,9 @@
     - [博客](/车库/博客.md)
 
 
-<center>
-        <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no">
-        </iframe>
-                    <!--网站网盘目录-->
+
+<iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe>
+                    <!-- 网站网盘目录
                         <a href="/">主页</a>|
                         <a href="https://tibi.youte.ml/project">企业项目</a>|
                         <a href="https://alist.youte.ml/">Alsit</a>|
@@ -70,4 +69,4 @@
                         <a href="http://ctlist.youte.ml">CTList</a>|
                         <a href="https://arlist.youte.ml/">ShareList</a>|
                         <a href="https://oelist.youte.ml/">GONEList</a>|
-                        <a href="https://ond.youte.ml/l">OneIndexN</a>|
+                        <a href="https://ond.youte.ml/l">OneIndexN</a>| -->
