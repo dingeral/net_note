@@ -78,6 +78,10 @@
  
 </span>
 
+
+<span id="momk">本站已运行：
+                        <span id="span_dt_dt"></span>
+
 <div class="copy-text">
      <p>本站已安全运行了
      <span class="smalltxt">
