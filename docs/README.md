@@ -60,5 +60,6 @@
 
 
 <div align="center">
+<span id="Beijing_z43d" style="font-size:36px"></span>
 <span id="momk">本站已运行：<span id="span_dt_dt"></span>
 </div>
