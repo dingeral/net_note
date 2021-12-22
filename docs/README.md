@@ -54,9 +54,6 @@
     - [博客](/车库/博客.md)
 
 
-<iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="120px" scrolling="no"></iframe>
-
-
 <center>
         <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="120px" scrolling="no">
         </iframe>
