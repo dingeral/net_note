@@ -57,10 +57,8 @@
 ### 时间
 
 <!-- <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe> -->
-<br>
-<br>
-<br>
-<div align="center">
+
+<div align="left">
 <span id="Beijing_z43d" style="font-size:17px"></span>
 <br>
 <br>
