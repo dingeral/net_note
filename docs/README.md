@@ -77,3 +77,41 @@
                         <script>/*2020/10/20*/function show_date_time(){window.setTimeout("show_date_time()",1e3);var BirthDay=new Date("2021/04/10"),today=new Date,timeold=today.getTime()-BirthDay.getTime(),msPerDay=864e5,e_daysold=timeold/msPerDay,daysold=Math.floor(e_daysold),e_hrsold=24*(e_daysold-daysold),hrsold=Math.floor(e_hrsold),e_minsold=60*(e_hrsold-hrsold), minsold=Math.floor(60*(e_hrsold-hrsold)),seconds=Math.floor(60*(e_minsold-minsold));span_dt_dt.innerHTML=daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";}show_date_time();</script><style>#momk{animation:change 10s infinite;font-weight:800;}@keyframes change{0%{color:#5cb85c;}25%{color:#556bd8;}50%{color:#e40707;}75%{color:#66e616;}100%{color:#67bd31;}}</style><p style="-webkit-text-stroke: initial !important;"></p>
  
 </span>
+
+<div class="copy-text">
+     <p>本站已安全运行了
+     <span class="smalltxt">
+     <script>
+         var BirthDay=new Date("may 01,2020");//修改成你网站创建时间today=new Date();
+         var today=new Date();
+         var timeold=(today.getTime()-BirthDay.getTime());
+         var sectimeold=timeold/1000;
+         var secondsold=Math.floor(sectimeold);
+         var msPerDay=24*60*60*1000;
+         var e_daysold=timeold/msPerDay;
+         var daysold=Math.floor(e_daysold);
+         document.write(""+daysold+"天");
+     </script>
+     </span><p>
+</div>
+
+<span id="span"></span>
+<script type="text/javascript">
+    function runtime(){
+        // 初始时间，月/日/年 时:分:秒
+        X = new Date("11/18/2016 8:32:00");
+        Y = new Date();
+        T = (Y.getTime()-X.getTime());
+        M = 24*60*60*1000;
+        a = T/M;
+        A = Math.floor(a);
+        b = (a-A)*24;
+        B = Math.floor(b);
+        c = (b-B)*60;
+        C = Math.floor((b-B)*60);
+        D = Math.floor((c-C)*60);
+        //信息写入到DIV中
+        span.innerHTML = "本站勉强运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"
+    }
+    setInterval(runtime, 1000);
+</script>
