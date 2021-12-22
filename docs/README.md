@@ -71,24 +71,3 @@
                         <a href="https://arlist.youte.ml/">ShareList</a>|
                         <a href="https://oelist.youte.ml/">GONEList</a>|
                         <a href="https://ond.youte.ml/l">OneIndexN</a>|
-
-<!--一言-->                         
-
-<!--底部内容-->                              
-<font face="楷体_GB2312" color="#FF7B38" size="0.8" style="-webkit-text-stroke: initial !important;"><br style="-webkit-text-stroke: initial !important;">富强· 自由· 平等· 爱国· 民主· 文明· 和谐· 公正· 法治· 敬业· 诚信· 友善 </font>
-<span id="momk" style="color: rgb(255, 0, 0); -webkit-text-stroke: initial !important;"></span>
-                            <br style="-webkit-text-stroke: initial !important;"> 
-                          <br style="-webkit-text-stroke: initial !important;">
-                        <br style="-webkit-text-stroke: initial !important;">
-                     <br style="-webkit-text-stroke: initial !important;">
-                     
-
-</script>
-                            
-    <!-- 音乐播放器 --> 
-    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="https://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <script id="ilt" src="https://player.youte.ml/player/js/player.js" key="1d98766031254e6aa7023b2d617419c0"></script> 
-    
- 
-</span></font></center> -->
