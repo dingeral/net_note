@@ -57,37 +57,6 @@
 <center>
         <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="120px" scrolling="no">
         </iframe>
-        <a href="https://music.youte.ml">
-        <font face="楷体_GB2312" color="#ffa200" size="1.0">轻谈浅唱 
-        <font color="#fcbe72" size="1.5">✦世界 · 你好！</font> </font></a><font face="楷体_GB2312" color="#ffa200" size="1.0"> 
-            
-            <br>
-            <!--新年倒计时-->
-            <div class="gn_box"> 
-            <h2 style="-webkit-text-stroke: initial !important;">
-            <font color="#E80017" style="-webkit-text-stroke: initial !important;">2</font>
-            <font color="#D1002E" style="-webkit-text-stroke: initial !important;">0</font>
-            <font color="#BA0045" style="-webkit-text-stroke: initial !important;">2</font>
-            <font color="#A3005C" style="-webkit-text-stroke: initial !important;">2</font>
-            <font color="#8C0073" style="-webkit-text-stroke: initial !important;">年</font>
-            <font color="#E80088" style="-webkit-text-stroke: initial !important;"><img src="//poco.4kyu.cc/chinaos.ico"></font>
-            <font color="#5E00A1" style="-webkit-text-stroke: initial !important;">新</font>
-            <font color="#4700B8" style="-webkit-text-stroke: initial !important;">年</font>
-            <font color="#3000CF" style="-webkit-text-stroke: initial !important;">倒</font>
-            <font color="#1900E6" style="-webkit-text-stroke: initial !important;">计</font>
-            <font color="#0200FD" style="-webkit-text-stroke: initial !important;">时</font>
-            </h2><center>
-                <div id="CountMsg" class="HotDate">
-                    <h2 style="-webkit-text-stroke: initial !important;">
-                    <font face="楷体_GB2312" color="#b2da11" size="4.8" style="-webkit-text-stroke: initial !important;">
-                    <span id="t_d" style="-webkit-text-stroke: initial !important;">40 天</span>
-                    <span id="t_h" style="-webkit-text-stroke: initial !important;">06 时</span>
-                    <span id="t_m" style="-webkit-text-stroke: initial !important;">47 分</span>
-                    <span id="t_s" style="-webkit-text-stroke: initial !important;">46 秒</span>
-                    </font></h2></div></center><font face="楷体_GB2312" color="#b2da11" size="4.8">
-                    <script type="text/javascript">function getRTime() {var NowTime =new Date();var EndTime =new Date(parseInt(NowTime.getFullYear()) + 1 +'-02-01 00:00:00');var lefttime =parseInt((EndTime.getTime() - NowTime.getTime()) / 1000);var d =parseInt(lefttime / (24*60*60));var h =parseInt(lefttime / (60 *60) % 24);var m =parseInt(lefttime / 60 % 60);var s =parseInt(lefttime % 60);d =addZero(d);h =addZero(h);m =addZero(m);s =addZero(s);var day =document.getElementById("t_d");if (day !=null) {day.innerHTML =d + " 天";} var hour =document.getElementById("t_h");if (hour !=null) {hour.innerHTML =h + " 时";} var min =document.getElementById("t_m");if (min !=null) {min.innerHTML =m + " 分";} var sec =document.getElementById("t_s");if (sec !=null) {sec.innerHTML =s + " 秒";} } function addZero(i){return i < 10 ?"0" + i:i + "";} setInterval(getRTime,1000);</script>
-                    </font>
-                    </div>
                     <!--网站网盘目录-->
                         <a href="/">主页</a>|
                         <a href="https://tibi.youte.ml/project">企业项目</a>|
@@ -102,21 +71,6 @@
                         <a href="https://arlist.youte.ml/">ShareList</a>|
                         <a href="https://oelist.youte.ml/">GONEList</a>|
                         <a href="https://ond.youte.ml/l">OneIndexN</a>|
-
-                        <br>
-                        <a href="">Heroku/函数部署</a>|
-                        <a href="https://ef3015f7fe4a4cddac91bbd298e7694a.apig.ap-southeast-1.huaweicloudapis.com/">华为函数</a>|
-                        <a href="https://service-7ckf4l6w-1251814827.gz.apigw.tencentcs.com/">腾讯函数</a>|
-                        <a href="https://jpan.herokuapp.com">Heroku-Panlndex</a>|
-                        <a href="https://oneyr.herokuapp.com/">Heroku-OneManager</a>|
-                        <a href="https://iii.jing207.workers.dev/">Goindex</a>|
-                        <a href="https://gdrive.junq207.workers.dev/">GDrive</a>|
-                        <a href="https://gdrive.jing207.workers.dev/">GDrive</a>|
-                        <br>
-                        <!--网站运行时间-->
-                        <span id="momk" style="-webkit-text-stroke: initial !important;">本站已运行：
-                        <span id="span_dt_dt" style="-webkit-text-stroke: initial !important;">256天17小时12分12秒</span>
-                        <script>/*2020/10/20*/function show_date_time(){window.setTimeout("show_date_time()",1e3);var BirthDay=new Date("2021/04/10"),today=new Date,timeold=today.getTime()-BirthDay.getTime(),msPerDay=864e5,e_daysold=timeold/msPerDay,daysold=Math.floor(e_daysold),e_hrsold=24*(e_daysold-daysold),hrsold=Math.floor(e_hrsold),e_minsold=60*(e_hrsold-hrsold), minsold=Math.floor(60*(e_hrsold-hrsold)),seconds=Math.floor(60*(e_minsold-minsold));span_dt_dt.innerHTML=daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";}show_date_time();</script><style>#momk{animation:change 10s infinite;font-weight:800;}@keyframes change{0%{color:#5cb85c;}25%{color:#556bd8;}50%{color:#e40707;}75%{color:#66e616;}100%{color:#67bd31;}}</style><p style="-webkit-text-stroke: initial !important;"></p>
 
 <!--一言-->                         
 <p id="hitokoto" style="-webkit-text-stroke: initial !important;">就像是一场华尔街的阴谋，透露着优雅的杀戮。</p>
