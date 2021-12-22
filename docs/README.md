@@ -72,5 +72,6 @@
                         <a href="https://oelist.youte.ml/">GONEList</a>|
                         <a href="https://ond.youte.ml/l">OneIndexN</a>| -->
 
-<center>
+<div align="center">
 <span id="momk">本站已运行：<span id="span_dt_dt"></span>
+</div>
