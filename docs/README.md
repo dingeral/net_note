@@ -74,7 +74,7 @@
 
 <span id="momk" style="-webkit-text-stroke: initial !important;">本站已运行：
                         <span id="span_dt_dt" style="-webkit-text-stroke: initial !important;">256天17小时44分3秒</span>
-                        <script>/*2020/10/20*/function show_date_time(){window.setTimeout("show_date_time()",1e3);var BirthDay=new Date("2021/04/10"),today=new Date,timeold=today.getTime()-BirthDay.getTime(),msPerDay=864e5,e_daysold=timeold/msPerDay,daysold=Math.floor(e_daysold),e_hrsold=24*(e_daysold-daysold),hrsold=Math.floor(e_hrsold),e_minsold=60*(e_hrsold-hrsold), minsold=Math.floor(60*(e_hrsold-hrsold)),seconds=Math.floor(60*(e_minsold-minsold));span_dt_dt.innerHTML=daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";}show_date_time();</script><style>#momk{animation:change 10s infinite;font-weight:800;}@keyframes change{0%{color:#5cb85c;}25%{color:#556bd8;}50%{color:#e40707;}75%{color:#66e616;}100%{color:#67bd31;}}</style><p style="-webkit-text-stroke: initial !important;"></p>
+                        <p style="-webkit-text-stroke: initial !important;"></p>
  
 </span>
 
