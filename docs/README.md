@@ -57,20 +57,7 @@
 ### 时钟
 
 <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe>
-                    <!-- 网站网盘目录
-                        <a href="/">主页</a>|
-                        <a href="https://tibi.youte.ml/project">企业项目</a>|
-                        <a href="https://alist.youte.ml/">Alsit</a>|
-                        <a href="https://one.youte.ml/">OneManager</a>|
-                        <a href="https://panl.youte.ml/">PanIndex</a>|
-                        <a href="https://yun.youte.ml">资源小站</a>|
-                        <a href="https://olist.vercel.app/">One-Vercel</a>|
-                        <a href="https://olist.glitch.me/">One-Glitch</a>|
-                        <a href="https://o-li.glitch.me/">OneManager</a>|
-                        <a href="http://ctlist.youte.ml">CTList</a>|
-                        <a href="https://arlist.youte.ml/">ShareList</a>|
-                        <a href="https://oelist.youte.ml/">GONEList</a>|
-                        <a href="https://ond.youte.ml/l">OneIndexN</a>| -->
+
 
 <div align="center">
 <span id="momk">本站已运行：<span id="span_dt_dt"></span>
