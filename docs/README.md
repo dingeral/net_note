@@ -57,10 +57,9 @@
 ### 时钟
 
 <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe>
-
-
+<br>
 <div align="center">
-<span id="Beijing_z43d" style="font-size:20px"></span>
+<span id="Beijing_z43d" style="font-size:17px"></span>
 <br>
 <span id="momk">本站已运行：<span id="span_dt_dt"></span>
 </div>
