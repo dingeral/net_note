@@ -13,12 +13,6 @@
 <!-- ![今日诗词](https://v2.jinrishici.com/one.svg) -->
 
 <!-- <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;"> -->
-### 时间
-
-<!-- <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe> -->
-<div align="left">
-<span id="Beijing_z43d" style="font-size:17px"></span>
-</div>
 
 ### 目录
 -- 📑 [主页](/)  
