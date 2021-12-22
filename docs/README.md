@@ -18,9 +18,6 @@
 <!-- <iframe frameborder="0" src="https://scdn.ltyuanfang.cn/shizhong.html" width="100%" height="300px" scrolling="no"></iframe> -->
 <div align="left">
 <span id="Beijing_z43d" style="font-size:17px"></span>
-<br>
-<br>
-<span id="momk">本站已运行：<span id="span_dt_dt"></span>
 </div>
 
 ### 目录
@@ -62,4 +59,4 @@
     - [diy](/tools/diy.md)
     - [博客](/车库/博客.md)
 
-
+<span id="momk">本站已运行：<span id="span_dt_dt"></span>
