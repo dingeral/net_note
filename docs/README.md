@@ -73,24 +73,7 @@
                         <a href="https://ond.youte.ml/l">OneIndexN</a>|
 
 <!--一言-->                         
-<p id="hitokoto" style="-webkit-text-stroke: initial !important;">就像是一场华尔街的阴谋，透露着优雅的杀戮。</p>
-<script>
-    fetch('https://v1.hitokoto.cn')
-        .then(response => response.json())
-        .then(data => {
-            const hitokoto = document.getElementById('hitokoto')
-            hitokoto.innerText = data.hitokoto
-        })
-        .catch(console.error)
-</script>
-<!--底部内容-->  
-<a href="https://github.com/qkqpttgf/OneManager-php" style="-webkit-text-stroke: initial !important;">
-<font color="#41577D" size="1.0" style="-webkit-text-stroke: initial !important;">OneManager v3.4</font></a> | ©2022 
-<a href="https://youte.ml" style="-webkit-text-stroke: initial !important;"><font face="楷体_GB2312" color="#259E41" size="1.5" style="-webkit-text-stroke: initial !important;">一只鱼</font></a>
-<!--友盟统计-->  
-                            &nbsp;|&nbsp;
-<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279586967'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D1279586967%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1279586967" style="-webkit-text-stroke: initial !important;"><a href="https://www.cnzz.com/stat/website.php?web_id=1279586967" target="_blank" title="站长统计" style="-webkit-text-stroke: initial !important;"><img border="0" hspace="0" vspace="0" src="https://icon.cnzz.com/img/pic1.gif"></a></span><script src="https://v1.cnzz.com/z_stat.php?id=1279586967&amp;show=pic1" type="text/javascript"></script><script src="https://c.cnzz.com/core.php?web_id=1279586967&amp;show=pic1&amp;t=z" charset="utf-8" type="text/javascript"></script>
-                            &nbsp;&nbsp;
+
 <!--底部内容-->                              
 <font face="楷体_GB2312" color="#FF7B38" size="0.8" style="-webkit-text-stroke: initial !important;"><br style="-webkit-text-stroke: initial !important;">富强· 自由· 平等· 爱国· 民主· 文明· 和谐· 公正· 法治· 敬业· 诚信· 友善 </font>
 <span id="momk" style="color: rgb(255, 0, 0); -webkit-text-stroke: initial !important;"></span>
