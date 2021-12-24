@@ -19,3 +19,5 @@
 - [wikiHow](https://zh.wikihow.com/)
 
 - [淘宝购物券](http://quan.mmfad.com/)
+
+- [辅助狗](https://www.fuzhugou.com/):放心软件搜索平台
