@@ -4,7 +4,7 @@
 
 - [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
 
-- [浙江网络图书馆](http://www.zjelib.cn/ )
+- [浙江网络图书馆](http://www.zjelib.cn/login/login.action)
 
 - [GitHub](https://github.com/dingeral)
 
