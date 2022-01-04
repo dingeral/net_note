@@ -2,6 +2,7 @@
 
 - 中文
   - [豆瓣](https://www.douban.com/)
+  - [Z-Library](https://zh.z-lib.org/)
   - [LoreFree](https://ebook2.lorefree.com/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
   - [书籍知识库](https://book.zhishikoo.com/)
@@ -9,7 +10,6 @@
   - [中国哲学书电子化计划](https://ctext.org/zh)
 - 英文
   - [Library Genesis](http://libgen.rs)
-  - [Z-Library](https://zh.z-lib.org/)
   - [古腾堡计划](http://www.gutenberg.org)
   - [FreeBooks4Doctors](http://freebooks4doctors.com/)
 
