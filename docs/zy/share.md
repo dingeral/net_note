@@ -2,6 +2,8 @@
 
 - [🍀 一叶](https://share.dingeral.com/)
 
+- [🔎 飞书资料库](https://e8aced0umw.feishu.cn/drive/folder/fldcnL1CTdsKkl3MZy99yRcy10f)
+
 - [Jsaper's od](https://od.102345.xyz/)
 
 - [豆瓣电影Top250](http://gg.gg/xbt88)
