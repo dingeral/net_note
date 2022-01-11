@@ -1,4 +1,4 @@
-- [飞书文档](https://e8aced0umw.feishu.cn/drive/home/)
+- [飞书文档](https://e8aced0umw.feishu.cn/drive/me/)
 - [Notion](https://www.notion.so/)
 - [Twitter](https://tweetdeck.twitter.com/)
 - [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
