@@ -1,8 +1,8 @@
 ## Share
 
-- [🍀 一叶](https://share.dingeral.com/)
+- [一叶](https://share.dingeral.com/)
 
-- [🔎 飞书资料库](https://e8aced0umw.feishu.cn/drive/folder/fldcnL1CTdsKkl3MZy99yRcy10f)
+- [飞书文件库](https://e8aced0umw.feishu.cn/drive/folder/fldcnL1CTdsKkl3MZy99yRcy10f)
 
 - [Jsaper's od](https://od.102345.xyz/)
 
