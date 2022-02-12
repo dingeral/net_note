@@ -9,7 +9,7 @@
 
 - [经济学人](https://emagazine.link/category/new/4)
 
-### 播客
+<!-- ### 播客
 
 - [静说日本·徐静波](https://zh.player.fm/series/1282701)
 
@@ -31,4 +31,4 @@
 
 - [科学有故事](https://www.ximalaya.com/zhubo/46980604)
 
-- [古哥古点](https://www.ximalaya.com/lishi/4792795/)
+- [古哥古点](https://www.ximalaya.com/lishi/4792795/) -->
