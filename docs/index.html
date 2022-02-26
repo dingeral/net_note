@@ -30,17 +30,11 @@
 <body>
   <div id="app">网络让生活更美好.</div>
   <script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
-    }
-  </script>
-  <script>
     window.$docsify = {
       name: '书签',
       subMaxLevel: 3,
       repo: '',
       auto2top: true,
-
       search: {                                    //搜索
       maxAge: 86400000,                            // 过期时间，单位毫秒，默认一天
       paths: 'auto',
@@ -53,9 +47,9 @@
       // themeColor: '#0757a4',
       themeColor: '#188038',
       loadSidebar: true,
-      alias: {
-      '/.*/_sidebar.md': '/_sidebar.md',
-    },
+    //   alias: {
+    //   '/.*/_sidebar.md': '/_sidebar.md',
+    // }
   }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
