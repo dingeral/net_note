@@ -134,8 +134,6 @@
 
 - [科学是什么](https://www.youtube.com/playlist?list=PL2UXTH6p_7LajHB-VjSztJqpsXfqTclex)
 
-- [李玫瑾公开课](https://www.youtube.com/watch?v=Wuhxppx1cL0)
-
 - [12堂超级搜索术](https://www.youtube.com/playlist?list=PLEo_akIUYI3GsqYMg_uqtVm0i01bIyCeU)
 
 - [线性代数的本质 - 系列合集](https://www.bilibili.com/video/av6731067)
