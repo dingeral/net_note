@@ -1,3 +1,4 @@
+- [deepin](/deepin/README.md)
 * deepin 装机
   - [准备工作](/deepin/装机/准备工作.md)
   - [系统配置](/deepin/装机/系统配置.md)
