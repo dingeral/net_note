@@ -1,6 +1,7 @@
 - [奇客Solidot](https://www.solidot.org/)
 - [Matters](https://matters.news/)
 - [黑客新闻](https://news.ycombinator.com) [👉](https://hn-omega.vercel.app/)
+- [期刊杂志](http://new-qk.lifves.com/wap.php?url=aHR0cCUzQSUyRiUyRm5ldy1xay5saWZ2ZXMuY29tJTJGY29udGVudC5waHAlM0Z1cmwlM0RPVEl5TWpFeU1ESnJlbXA2UkRNbFpHbEdNeVZrWVdWeUxYUjRaWFJHTWlWaFoyRnRSaklsWTNCR01pVnRiMk11Ym1GcmFYRXVjM0JrTG1kemRIaGtibXBHTWlWR01pVkJNeVZ3ZEhSbw==)
 - [Medium](https://medium.com/)
 - [新闻实验室微信公众号文章备份](https://newslab2020.github.io/Collection/)
 - [湾区日报](https://wanqu.co/issues/)
