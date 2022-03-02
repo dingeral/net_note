@@ -6,7 +6,6 @@
   - [软件设置](/deepin/装机/软件设置.md)
   - [常用命令](/deepin/装机/常用命令.md)
   - [常见问题](/deepin/装机/常见问题.md)
-
 - 使用
   - [Windows使用](/deepin/使用/win.md)
   - [gitbook教程](/deepin/使用/gitbook_to_use.md)
@@ -14,6 +13,8 @@
   - [markdown入门](/deepin/使用/markdown.md)
   - [docsify教程](/deepin/使用/docsify_to_use.md)
   - [LaTex](/deepin/使用/LATEX数学公式基本语法.md)
+- 命令行
+  - [ffmpep](/deepin/terml/ffmpep.md)
 
 <!-- deepin
   - [常用链接](/deepin/deepin_use_url.md)
