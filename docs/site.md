@@ -9,6 +9,7 @@
 - [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
 - [浙江网络图书馆](http://www.zjelib.cn/login/login.action)
 - [知犀思维导图](https://www.zhixi.com/)
+- [Qi Reader](https://www.qireader.com/)
 ---
 
 
