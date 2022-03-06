@@ -1,6 +1,6 @@
-- [Google](https://www.google.com/)
-
 - [豆瓣](https://www.douban.com/)
+
+- [互联网历史存档](https://archive.org/)
 
 - [Wikipedia](https://zh.wikipedia.org/)
 
@@ -23,3 +23,7 @@
 - [淘宝购物券](http://quan.mmfad.com/)
 
 - [辅助狗](https://www.fuzhugou.com/):放心软件搜索平台
+
+- [Google](https://www.google.com/)
+
+- [Library Mirror](https://www.library.ac.cn/)

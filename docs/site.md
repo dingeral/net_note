@@ -1,5 +1,5 @@
-- [郑伊廷](https://www.xdite.com/)
 - [进度](https://www.notion.so/dingerall/ef8bf400d60f492c8f07a608da8f6669?v=7b52d2ab51244290b489f0fdbf879223)
+- [🌟 路灯](https://dingerall.notion.site/b0fffb8078e44b4a9119d1b3bdfcb4b5)
 ---
 - [飞书](https://e8aced0umw.feishu.cn/drive/me/)
 - [Notion](https://www.notion.so/)
@@ -8,12 +8,10 @@
 - [Twitter](https://tweetdeck.twitter.com/)
 - [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
 - [浙江网络图书馆](http://www.zjelib.cn/login/login.action)
-- [GitHub](https://github.com/dingeral)
-- [Library Mirror](https://www.library.ac.cn/)
-
+- [知犀思维导图](https://www.zhixi.com/)
 ---
 
-- [🌟 路灯](https://dingerall.notion.site/b0fffb8078e44b4a9119d1b3bdfcb4b5)
+
 
 <!-- 
 
