@@ -1,5 +1,7 @@
 - [Google](https://www.google.com/)
 
+- [豆瓣](https://www.douban.com/)
+
 - [Wikipedia](https://zh.wikipedia.org/)
 
 - [虫部落](http://www.chongbuluo.com/)
