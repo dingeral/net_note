@@ -18,5 +18,5 @@
     - [搜索](/tools/s&d.md)
     - [利刃](tools/利刃.md)
     - [辅助](/tools/辅助.md)
-    - [软件](/zy/软件.md)
+    - [软件](/tools/软件.md)
 
