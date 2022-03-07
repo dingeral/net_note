@@ -14,7 +14,7 @@
 
 ## 文献下载
 
-- [iData](https://www.cn-ki.net/)：每日提供1～5篇免费下载，请勿短时间内下载多篇。
+- [iData](https://www.cn-ki.net/)：每日提供1～2篇免费下载
 
 - [浙江图书馆](https://www.zjlib.cn/)：资源多
 
