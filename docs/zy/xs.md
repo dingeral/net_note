@@ -18,7 +18,16 @@
 
 - [浙江图书馆](https://www.zjlib.cn/)：资源多
 
-- [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html) [👉](https://31sanyi.neocities.org/ZW/zw/zw-jx2.html)
+<details>
+<summary>点击查看</summary>
+
+|   网站     |   网址      | 
+|:---------|:---------|
+| 知网数据库总站（含会议、博硕论文） | [链接](http://zjisa.zjlib.cn/sso/auth.jsp?returnUrl=http://10.18.17.173/kns55/&libCode=zjlib) |
+
+</details>
+
+- [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html) ：目前停运中
 
 - [ZLibary](http://libgen.bban.top/)
 
