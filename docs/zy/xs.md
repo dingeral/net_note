@@ -18,6 +18,8 @@
 
 - [知网-浙江](http://zjisa.zjlib.cn/login.jspx?returnUrl=http://zjisa.zjlib.cn/sso/auth.jsp?returnUrl=http://10.18.17.173/kns55/&appFlag=null&libCode=zjlib&elecId=E1CA8CA4AFD46557E040007F01001A9B)
 
+- [蜗牛图书馆](http://wnlib.cn/)
+
 - [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html) ：目前停运中
 
 - [ZLibary](http://libgen.bban.top/)

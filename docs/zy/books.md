@@ -4,6 +4,7 @@
   - [豆瓣](https://www.douban.com/)
   - [Z-Library](https://zh.z-lib.org/)
   - [LoreFree](https://ebook2.lorefree.com/)
+  - [Elibcc](https://elib.cc/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
   - [书籍知识库](https://book.zhishikoo.com/)
   - [书格](https://new.shuge.org/)：在线古籍图书馆
