@@ -16,25 +16,17 @@
 
 - [iData](https://www.cn-ki.net/)：每日提供1～2篇免费下载
 
-- [浙江图书馆](https://www.zjlib.cn/)：资源多
+- [知网-浙江](http://zjisa.zjlib.cn/login.jspx?returnUrl=http://zjisa.zjlib.cn/sso/auth.jsp?returnUrl=http://10.18.17.173/kns55/&appFlag=null&libCode=zjlib&elecId=E1CA8CA4AFD46557E040007F01001A9B)
 
 - [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html) ：目前停运中
 
 - [ZLibary](http://libgen.bban.top/)
 
-- SCI-Hub：开源文献
+- [AnyPaper](https://ifish.fun/paper/search)
 
-  - [http://sci-hub.se](http://sci-hub.se)
+<!-- ## 综合
 
-  - [http://sci-hub.st](http://sci-hub.st)
-
-  - [http://sci-hub.do](http://sci-hub.do)
-
-  - [Sci-Hub bot](https://t.me/scihubot)
-
-## 综合
-
-- [超星云盘](http://pan-yz.chaoxing.com/pcuserpan/index)
+- [超星云盘](http://pan-yz.chaoxing.com/pcuserpan/index) -->
 
 ## 网络图书馆
 
@@ -42,7 +34,7 @@
 
 |       网址      |     附文        |
 | :----------------: | ------------- |
-|   [图书馆](http://www.zjelib.cn/login/login.action)  |   |
+|   [四川图书馆](http://www.zjelib.cn/login/login.action)  |   |
 |   [浙江网络图书馆](http://www.zjelib.cn/login/login.action)  |   |
 | [浙江图书馆资源汇总](http://zjisa.zjlib.cn/home/zy_home.jsp) |     |
 |   [信阅](https://ulib.interlib.cn/tcshop/1111/index)        |  |

@@ -6,15 +6,9 @@
 - [板栗看板](https://feishu.banlikanban.com/kanban/61d5bb6ec6367d1d1e0d635a)
 - [flomo](https://flomoapp.com/)
 - [Twitter](https://tweetdeck.twitter.com/)
-- [知网](https://www.cnki.net/) [🔐](/zy/知网账号.md)
-- [浙江网络图书馆](http://www.zjelib.cn/login/login.action)
 - [知犀思维导图](https://www.zhixi.com/)
 - [Qi Reader](https://www.qireader.com/)
 ---
-
-- [一叶](https://share.dingeral.com/)
-
-- [飞书文件库](https://e8aced0umw.feishu.cn/drive/folder/fldcnL1CTdsKkl3MZy99yRcy10f)
 
 <!-- 
 
