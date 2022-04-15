@@ -37,6 +37,7 @@
 | [四川图书馆](http://portal.sclib.org:8082/sc_uum_cas/login?service=http%3A%2F%2Fportal.sclib.org%2FinterlibSSO%2Fmain%2Fcas.jsp) |                                                                                |
 |                                    [浙江网络图书馆](http://www.zjelib.cn/login/login.action)                                     |                                                                                |
 |                                   [浙江图书馆资源汇总](http://zjisa.zjlib.cn/home/zy_home.jsp)                                   |                                                                                |
+|                                   [OverDrive赛阅数字图书馆](https://zjlib.overdrivechina.cn/)                                   |                                                                                |
 |                                        [信阅](https://ulib.interlib.cn/tcshop/1111/index)                                        |                                                                                |
 |                                               [读秀知识库](http://www.duxiu.com/)                                                | 账号：`sxstsg2` 密码：`sxst#09072@dx`<br />账号：`ynwhqtsg` 密码：`64ee9eb0@!` |
 |                                                 [百链云](http://www.blyun.com/)                                                  | 账号：`fskjdx1` 密码：`ef55677d@!`<br />账号：`xayxydx11` 密码：`1540e778@！`  |
