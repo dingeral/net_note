@@ -16,12 +16,12 @@
 
 ### 推荐
 
+- [微信读书](https://weread.qq.com/)
+- [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](https://goodreads.com)
-- [微信读书](https://weread.qq.com/)
 - [reddit 用户在读哪些书？](https://www.redditreads.com/)
 - [HackerNews 书籍推荐](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
-- [读书笔记](https://reading.geek-docs.com/)
 
 ### kindle 推送
 
