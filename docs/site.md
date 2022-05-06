@@ -1,13 +1,10 @@
 - [进度](https://www.notion.so/dingerall/ef8bf400d60f492c8f07a608da8f6669?v=7b52d2ab51244290b489f0fdbf879223)
-- [🌟 路灯](https://dingerall.notion.site/b0fffb8078e44b4a9119d1b3bdfcb4b5)
+- [OverDrive赛阅数字图书馆](https://zjlib.overdrivechina.cn/)
 ---
 - [飞书](https://e8aced0umw.feishu.cn/drive/me/)
 - [Notion](https://www.notion.so/)
-- [板栗看板](https://feishu.banlikanban.com/kanban/61d5bb6ec6367d1d1e0d635a)
 - [flomo](https://flomoapp.com/)
-- [Twitter](https://tweetdeck.twitter.com/)
 - [知犀思维导图](https://www.zhixi.com/)
-- [Qi Reader](https://www.qireader.com/)
 ---
 
 <!-- 

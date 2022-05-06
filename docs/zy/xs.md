@@ -34,7 +34,7 @@
 
 |                                                               网址                                                               | 附文                                                                           |
 | :------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
-| [四川图书馆](http://portal.sclib.org:8082/sc_uum_cas/login?service=http%3A%2F%2Fportal.sclib.org%2FinterlibSSO%2Fmain%2Fcas.jsp) |                                                                                |
+|                                                                                |
 |                                    [浙江网络图书馆](http://www.zjelib.cn/login/login.action)                                     |                                                                                |
 |                                   [浙江图书馆资源汇总](http://zjisa.zjlib.cn/home/zy_home.jsp)                                   |                                                                                |
 |                                   [OverDrive赛阅数字图书馆](https://zjlib.overdrivechina.cn/)                                    |                                                                                |

@@ -17,7 +17,3 @@
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
 
 - [优雅地上网](/车库/优雅地上网.md)
-
-## Sync
-
-- 神 Key `BCWHZRSLANR64CGPTXRE54ENNSIUE5SMO`
