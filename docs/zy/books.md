@@ -7,6 +7,7 @@
   - [Elibcc](https://elib.cc/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
   - [书籍知识库](https://book.zhishikoo.com/)
+  - [淘链客](https://www.toplinks.cc/s/)
   - [书格](https://new.shuge.org/)：在线古籍图书馆
   - [中国哲学书电子化计划](https://ctext.org/zh)
 - 英文
