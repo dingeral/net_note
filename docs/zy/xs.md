@@ -12,6 +12,8 @@
 
 - [GoOA](http://gooa.las.ac.cn/)：开放获取论文一站式发现平台
 
+- [谷粉学术论坛](http://bbs.99lb.net/)
+
 ## 文献下载
 
 - [iData](https://www.cn-ki.net/)：每日提供1～2篇免费下载
