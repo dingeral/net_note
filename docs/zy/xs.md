@@ -6,6 +6,8 @@
 
 - [思谋学术](https://ac.scmor.com/)：提供谷歌学术镜像
 
+- [爱学术](https://www.ixueshu.com/)
+
 - [Arxiv](https://arxiv.org/)：论文预印本平台
 
 - [OATD](https://oatd.org/)：学位论文，免费查找，免费使用。
