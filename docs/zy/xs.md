@@ -43,7 +43,7 @@
 |                                   [浙江图书馆资源汇总](http://zjisa.zjlib.cn/home/zy_home.jsp)                                   |                                                                                |
 |                                   [OverDrive赛阅数字图书馆](https://zjlib.overdrivechina.cn/)                                    |                                                                                |
 |                                        [信阅](https://ulib.interlib.cn/tcshop/1111/index)                                        |                                                                                |
-|                                               [读秀知识库](http://www.duxiu.com/)                                                | 账号：`sxstsg2` 密码：`sxst#09072@dx`<br />账号：`ynwhqtsg` 密码：`64ee9eb0@!` |
+|                                               [读秀](http://www.duxiu.com/)                                                | 账号：`cclg`  密码： `294ea825@!`<br />账号：`ynwhqtsg` 密码：`64ee9eb0@!` |
 |                                                 [百链云](http://www.blyun.com/)                                                  | 账号：`fskjdx1` 密码：`ef55677d@!`<br />账号：`xayxydx11` 密码：`1540e778@！`  |
 |                                                  [知网](https://www.cnki.net/)                                                   | [🔐](/zy/知网账号.md)                                                           |
 |                                             [龙源期刊](https://zju.dps.qikan.cn/pc/)                                             | 账号：`fskjdx1` 密码：`ef55677d@!`<br />账号：`zjdxtsg` 密码：`123456`         |
