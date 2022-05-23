@@ -8,8 +8,6 @@
 
 - [无歌](https://g.dingeral.com/)
 
-- [MBA智库百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
-
 - [互联网档案馆](https://archive.org/)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
