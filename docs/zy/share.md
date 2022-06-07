@@ -8,11 +8,7 @@
 
 - [七米蓝的仓库](https://al.chirmyram.com/)
 
-- [豆瓣电影Top250](http://gg.gg/xbt88)
-
 - [随缘分享](https://syfx.herokuapp.com/)
-
-- [天翼小站](https://yun.hei521.cn/)
 
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
 
