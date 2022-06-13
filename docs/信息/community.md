@@ -1,3 +1,5 @@
+- [科学网博客](https://blog.sciencenet.cn/blog.php)
+
 - [V2EX](https://www.v2ex.com/)
 
 - [深度论坛](https://bbs.deepin.org/)
