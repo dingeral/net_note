@@ -6,6 +6,8 @@
 
 - [七米蓝的仓库](https://al.chirmyram.com/)
 
+- [4S云盘](https://file.ssss.fun/)
+
 - [随缘分享](https://syfx.herokuapp.com/)
 
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
