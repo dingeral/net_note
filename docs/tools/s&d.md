@@ -8,6 +8,8 @@
 
 - [无歌](https://g.dingeral.com/)
 
+- [阿里云盘搜索](https://www.alipansou.com/)
+
 - [互联网档案馆](https://archive.org/)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
