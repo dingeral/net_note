@@ -18,6 +18,7 @@
 ### 推荐
 
 - [微信读书](https://weread.qq.com/)
+- [京东读书](https://m-tob.jd.com/)
 - [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](https://goodreads.com)

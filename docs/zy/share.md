@@ -8,8 +8,6 @@
 
 - [4S云盘](https://file.ssss.fun/)
 
-- [随缘分享](https://syfx.herokuapp.com/)
-
 - [FXXKMAKEDING](https://node4.mkdmirror.workers.dev/)
 
 - [优雅地上网](/车库/优雅地上网.md)
