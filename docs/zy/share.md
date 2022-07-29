@@ -1,6 +1,6 @@
 ## Share
 
-- [一叶](https://share.dingeral.com/)
+- [一叶](https://od.dingeral.ml/)
 
 - [飞书文件库](https://e8aced0umw.feishu.cn/drive/folder/fldcnL1CTdsKkl3MZy99yRcy10f)
 
