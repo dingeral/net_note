@@ -19,6 +19,7 @@
 
 - [微信读书](https://weread.qq.com/)
 - [京东读书](https://m-tob.jd.com/)
+- [100X阅读](https://100x.today/)
 - [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](https://goodreads.com)
