@@ -6,8 +6,4 @@
 
 - [七米蓝的仓库](https://al.chirmyram.com/)
 
-- [图欧学习资源库](https://tuostudy.com/)
-
-- [4S云盘](https://file.ssss.fun/)
-
 - [优雅地上网](/车库/优雅地上网.md)
