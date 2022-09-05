@@ -1,3 +1,5 @@
+- [元搜索](https://searx.tiekoetter.com/)：谷歌优秀替代品
+
 - [豆瓣](https://www.douban.com/)
 
 - [互联网历史存档](https://archive.org/)
@@ -29,5 +31,3 @@
 - [谷歌镜像站](https://jia110.github.io/)
 
 - [笑来搜](http://xiaolai.co/search)
-
-- [Library Mirror](https://www.library.ac.cn/)
