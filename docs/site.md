@@ -1,4 +1,4 @@
-- [飞书](https://e8aced0umw.feishu.cn/drive/me/)
+- [飞书](https://e8aced0umw.feishu.cn/messenger/)
 - [Notion](https://www.notion.so/)
 - [flomo](https://flomoapp.com/)
 - [知犀](https://www.zhixi.com/)
