@@ -8,7 +8,7 @@
 
 - [虫部落](http://www.chongbuluo.com/)
 
-- [无歌](https://g.dingeral.com/)
+- [无歌](https://g.dingeral.ml/)
 
 - [奈斯搜索](https://www.niceso.fun/)
 
@@ -22,7 +22,7 @@
 
 - [淘宝购物券](http://quan.mmfad.com/)
 
-- [辅助狗](https://www.fuzhugou.com/):放心软件搜索平台
+- [辅助狗](https://www.fuzhugou.com/)：放心软件搜索平台
 
 - [Google](https://www.google.com/)
 
