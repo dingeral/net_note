@@ -2,7 +2,8 @@
 
 - 中文
   - [豆瓣](https://www.douban.com/)
-  - [Z-Library](https://zh.z-lib.org/)
+  - [Z-Library](https://1lib.ink/)
+  - [Library Genesis](http://libgen.is/#)
   - [LoreFree](https://ebook2.lorefree.com/)
   - [鸠摩搜书](https://www.jiumodiary.com/)
   - [书籍知识库](https://book.zhishikoo.com/)
