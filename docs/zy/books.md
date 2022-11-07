@@ -2,18 +2,25 @@
 
 - 中文
   - [豆瓣](https://www.douban.com/)
-  - [Z-Library](https://1lib.ink/)
-  - [Library Genesis](http://libgen.is/#)
-  - [LoreFree](https://ebook2.lorefree.com/)
-  - [鸠摩搜书](https://www.jiumodiary.com/)
+  - ~~Z-Library~~
+  - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
+  - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
+  - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
+  - [鸠摩搜书](https://www.jiumodiary.com/)：诚通/百度网盘聚合搜索
   - [书籍知识库](https://book.zhishikoo.com/)
-  - [淘链客](https://www.toplinks.cc/s/)
+  - [淘链客](https://www.toplinks.cc/s/)：夸克/百度聚合搜素
   - [书格](https://new.shuge.org/)：在线古籍图书馆
   - [中国哲学书电子化计划](https://ctext.org/zh)
+  - [博看书苑]()：可以免费阅读正版电子图书、期刊、报纸，总存储量 21TB
 - 英文
   - [Library Genesis](http://libgen.rs)
   - [古腾堡计划](http://www.gutenberg.org)
   - [FreeBooks4Doctors](http://freebooks4doctors.com/)
+- More
+  - https://t.me/firstlibrarybot
+  - https://t.me/freembook_channel
+  - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
+  - [Z-Library-tor](http://ookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
 
 ### 推荐
 
