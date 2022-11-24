@@ -2,7 +2,7 @@
 
 - 中文
   - [豆瓣](https://www.douban.com/)
-  - ~~Z-Library~~
+  - [Z-Library](https://z-lib.is/)：复活
   - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
   - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
   - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
@@ -20,7 +20,6 @@
   - https://t.me/firstlibrarybot
   - https://t.me/freembook_channel
   - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
-  - [Z-Library-tor](http://ookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
 
 ### 推荐
 
