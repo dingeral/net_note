@@ -6,12 +6,12 @@
   - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
   - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
   - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
-  - [鸠摩搜书](https://www.jiumodiary.com/)：诚通/百度网盘聚合搜索
+  - [寻书客服](https://ebooks.pages.dev/)
+  - [鸠摩搜书](https://www.jiumodiary.com/)：诚通 / 百度网盘聚合搜索
   - [书籍知识库](https://book.zhishikoo.com/)
-  - [淘链客](https://www.toplinks.cc/s/)：夸克/百度聚合搜素
+  - [淘链客](https://www.toplinks.cc/s/)：夸克 / 百度聚合搜素
   - [书格](https://new.shuge.org/)：在线古籍图书馆
   - [中国哲学书电子化计划](https://ctext.org/zh)
-  - [博看书苑]()：可以免费阅读正版电子图书、期刊、报纸，总存储量 21TB
 - 英文
   - [Library Genesis](http://libgen.rs)
   - [古腾堡计划](http://www.gutenberg.org)
@@ -25,7 +25,7 @@
 
 - [微信读书](https://weread.qq.com/)
 - [京东读书](https://m-tob.jd.com/)
-- [100X阅读](https://100x.today/)
+- [100X 阅读](https://100x.today/)
 - [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
 - [Goodreads](https://goodreads.com)
