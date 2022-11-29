@@ -24,6 +24,4 @@
 
 - [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html)
 
-- [ZLibary](http://libgen.bban.top/)
-
 - [AnyPaper](https://ifish.fun/paper/search)
