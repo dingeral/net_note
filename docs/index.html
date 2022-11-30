@@ -50,7 +50,7 @@
       // themeColor: '#0757a4',
       themeColor: '#188038',
       loadSidebar: true,
-      loadNavbar: true,
+    //   loadNavbar: true,
     //   alias: {
     //   '/.*/_sidebar.md': '/_sidebar.md',
     // }
@@ -62,8 +62,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
   <script src="//unpkg.com/docsify-material-icons/dist/docsify-material-icons.min.js"></script>
-  <!-- 时钟 -->
-  <script src="https://scdn.ltyuanfang.cn/shizhong/js/clock.js"></script> 
   <!-- 本站已运行 -->
   <script>
       /*2019/12/27*/
@@ -80,7 +78,8 @@
               e_minsold = 60 * (e_hrsold - hrsold),
               minsold = Math.floor(60 * (e_hrsold - hrsold)),
               seconds = Math.floor(60 * (e_minsold - minsold));
-          span_dt_dt.innerHTML = daysold + "天" + hrsold + "小时" + minsold + "分" + seconds + "秒";
+        //   span_dt_dt.innerHTML = daysold + " 天 " + hrsold + " 小时 " + minsold + " 分 " + seconds + " 秒";
+         span_dt.innerHTML = daysold + " 天 " + hrsold + " 小时 " + minsold + " 分 " + seconds + " 秒";
       }
       show_date_time();
   </script>
