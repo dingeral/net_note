@@ -2,7 +2,6 @@
 
 - 中文
   - [豆瓣](https://www.douban.com/)
-  - [Z-Library](https://z-lib.is/)：复活
   - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
   - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
   - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
@@ -17,8 +16,8 @@
   - [古腾堡计划](http://www.gutenberg.org)
   - [FreeBooks4Doctors](http://freebooks4doctors.com/)
 - More
-  - https://t.me/firstlibrarybot
-  - https://t.me/freembook_channel
+  - <https://t.me/firstlibrarybot>
+  - <https://t.me/freembook_channel>
   - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 
 ### 推荐
@@ -32,6 +31,15 @@
 - [reddit 用户在读哪些书？](https://www.redditreads.com/)
 - [HackerNews 书籍推荐](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 
-### kindle 推送
+### 更多
 
-- [PUSH TO KINDLE](https://tokindle.top/)
+- zLib Searcher
+  1. <https://zlib.knat.network/>
+  2. <https://zlib.9farm.com/>
+  3. <http://zlib.qtoh.xyz/>
+  4. <http://zlibrary.shuziyimin.org>
+  5. <https://zlib.awesc.com/>
+  6. 桌面端软件：<https://github.com/zlib-searcher/zlib-searcher/issues/24>
+- <https://node1.v5.zhelper.net/>
+- [超星电子书库](https://beta.ssdown.org/)
+- [Z-Library](https://z-lib.is/)：？
