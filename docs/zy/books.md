@@ -40,5 +40,6 @@
   - [api](https://tool.yibook.org/)
 - [超星电子书库](https://beta.ssdown.org/)
 - [Z-Library](https://z-lib.is/)
+- <https://t.me/ZLibrary1_bot>
 - <https://t.me/freembook_channel>
 - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
