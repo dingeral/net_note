@@ -10,7 +10,7 @@
 
 - [无歌](https://g.dingeral.ml/)
 
-- [奈斯搜索](https://www.niceso.fun/)
+- [网盘搜索](https://www.alipansou.com/)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
 
