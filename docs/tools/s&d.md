@@ -22,8 +22,6 @@
 
 - [淘宝购物券](http://quan.mmfad.com/)
 
-- [辅助狗](https://www.fuzhugou.com/)：放心软件搜索平台
-
 - [Google](https://www.google.com/)
 
 - [谷歌镜像站](https://jia110.github.io/)
