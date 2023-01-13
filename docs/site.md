@@ -8,4 +8,4 @@
 - [Chatgpt](https://chat.openai.com/chat)
 - [知犀](https://www.zhixi.com/)
 - [天气](https://tianqi.qq.com/)
-- [Share](https://onemanager-dingeral.vercel.app/)
+- [alidrive](https://ali.dingeral.ml/)
