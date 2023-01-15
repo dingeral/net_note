@@ -1,16 +1,16 @@
-- [元搜索](https://searx.tiekoetter.com/)：谷歌优秀替代品
+- [Google](https://www.google.com/)
 
 - [豆瓣](https://www.douban.com/)
 
-- [互联网历史存档](https://archive.org/)
+- [网盘搜索](https://www.alipansou.com/)
+
+- [网页存档](https://archive.org/)
 
 - [Wikipedia](https://zh.wikipedia.org/)
 
 - [虫部落](http://www.chongbuluo.com/)
 
 - [无歌](https://g.dingeral.ml/)
-
-- [网盘搜索](https://www.alipansou.com/)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
 
@@ -27,3 +27,5 @@
 - [谷歌镜像站](https://jia110.github.io/)
 
 - [笑来搜](http://xiaolai.co/search)
+
+- [元搜索](https://searx.tiekoetter.com/)：谷歌优秀替代品

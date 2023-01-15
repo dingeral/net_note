@@ -1,7 +1,7 @@
 - [飞书](https://e8aced0umw.feishu.cn/messenger/)
 - [Notion](https://www.notion.so/)
 - [Flomo](https://flomoapp.com/)
-- [Workflowy](https://workflowy.com/)
+<!-- - [Workflowy](https://workflowy.com/) -->
 - [Note](https://note.ms/dingeral)
 - [番茄时钟](https://www.tomatolist.com/timer.html)
 - [无歌](https://g.dingeral.ml/)
