@@ -30,12 +30,6 @@
 
 - [OneMindMap](https://github.com/iHTCboy/OneMindMap)：人生的思维导图，有趣的思维导图
 
-- [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader/)
-
 - [webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)：静态响应式网址导航网站 Webstack - Jekyll 版
 
-- [WebVideo-Downloader](https://github.com/jaysonlong/webvideo-downloader)：网站视频下载器，主要支持Bilibili、爱奇艺、腾讯视频、芒果TV、WeTV、愛奇藝台灣站。
-
 - [MkDocs](https://www.mkdocs.org/)：静态站点生成器，用于构建项目文档。
-
-- [m3u8 视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
