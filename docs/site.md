@@ -8,4 +8,3 @@
 - [Chatgpt](https://chat.openai.com/chat)
 - [知犀](https://www.zhixi.com/)
 - [天气](https://tianqi.qq.com/)
-- [alidrive](https://ali.dingeral.ml/)
