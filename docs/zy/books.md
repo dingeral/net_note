@@ -34,7 +34,6 @@
   3. <http://zlib.qtoh.xyz/>
   4. <http://zlibrary.shuziyimin.org>
   5. <https://zlib.awesc.com/>
-  6. 桌面端软件：<https://github.com/zlib-searcher/zlib-searcher/issues/24>
 - [zhelper search](https://search.zhelper.net/?[{%22name%22:%22zhelperV5%22,%22url%22:%22https://api.v5.zhelper.net%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:true},{%22name%22:%22Mibooks(V4)%22,%22url%22:%22https://api.mibooks.tk%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false},{%22name%22:%22Ylibrary%22,%22url%22:%22https://api.ylibrary.org%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:true},{%22name%22:%22bookpan%22,%22url%22:%22https://api.bookpan.net%22,%22type%22:%22light%22,%22sensitive%22:false,%22detail%22:true}])
   - [api](https://tool.yibook.org/)
 - [超星电子书库](https://beta.ssdown.org/)
