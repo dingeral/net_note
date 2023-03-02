@@ -26,4 +26,4 @@
   - [电子书](/车库/电子书.md)
   - [仓库](/车库/仓库.md)
   - [github sf](/车库/gifs.md)
-  - [AI](docs/车库/ai.md)
+  - [AI](/车库/ai.md)
