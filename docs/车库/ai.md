@@ -1,6 +1,7 @@
 ### chatgpt
 
 - [https://freechatgpt.lol/](https://freechatgpt.lol/)
+- [https://chatgpt.ddiu.io/](https://chatgpt.ddiu.io/)
 
 ### 项目
 
