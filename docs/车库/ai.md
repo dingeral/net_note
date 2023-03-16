@@ -2,10 +2,6 @@
 
 - [chat.theb.ai](https://chat.theb.ai/)：使用体验非常好
 - [Trychatgp](https://trychatgp.com/)：每日 10 x N，可以使用 GPT-4
-- [freegpt.one](https://freegpt.one/)
-- [chat.cydiar.com/chat](https://chat.cydiar.com/chat)
-- [chat.zecoba.cn](https://chat.zecoba.cn/)
-<!-- - [chatgpt.ddiu.io](https://chatgpt.ddiu.io/) -->
 
 ### More
 
