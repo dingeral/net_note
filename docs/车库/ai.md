@@ -4,7 +4,7 @@
 - [chat.theb.ai](https://chat.theb.ai/)：使用体验非常好
 - [Trychatgp](https://trychatgp.com/)：每日 10 x N，可以使用 GPT-4
 - [Poe](https://poe.com/)
-- [CatGPT](https://api2d.com/)
+- [CatGPT](https://ai.okmiku.com/chat)
 
 ### More
 
