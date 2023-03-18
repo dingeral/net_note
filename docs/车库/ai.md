@@ -1,8 +1,7 @@
 # Chatgpt
 
 - [人工智能辅助](https://chat.ai-assist.moe/)
-- [若愚](https://ruoyu.dingyu.me/)：无需翻墙或电话认证、但如假包换的ChatGPT（GPT-4）镜像。
-由丁宇制作，来自东京带着爱 ❤️（不要滥用）
+- [若愚](https://ruoyu.dingyu.me/)
 - [Theb.ai](https://theb.ai/)：使用体验非常好
 - [chat.theb.ai](https://chat.theb.ai/)：使用体验非常好
 - [Trychatgp](https://trychatgp.com/)：每日 10 x N，可以使用 GPT-4
