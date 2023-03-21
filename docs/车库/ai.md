@@ -10,7 +10,10 @@
 
 ### More
 
+- [来自 Microsoft 必应的图像创建者](https://www.bing.com/images/create)
+- [文心一格](https://yige.baidu.com/)
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
+- [ChatDOC](https://chatdoc.com/)
 - [AICodeHelper](https://www.aicodehelper.com/)：生成最佳 AI 代码
 
 ### Repositories
