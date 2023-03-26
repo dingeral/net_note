@@ -1,11 +1,8 @@
 # Chatgpt
 
 - [人工智能辅助](https://chat.ai-assist.moe/)
-- [若愚](https://ruoyu.dingyu.me/)
-- [Theb.ai](https://theb.ai/)：使用体验非常好
-- [chat.theb.ai](https://chat.theb.ai/)：使用体验非常好
-- [Trychatgp](https://trychatgp.com/)：每日 10 x N，可以使用 GPT-4
 - [Poe](https://poe.com/)
+- [若愚](https://ruoyu.dingyu.me/)
 - [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
 
 ### More
