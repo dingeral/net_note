@@ -24,6 +24,7 @@
 - [Goodreads](https://goodreads.com)
 - [reddit 用户在读哪些书？](https://www.redditreads.com/)
 - [HackerNews 书籍推荐](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
+- [FIVE BOOK ](https://fivebooks.com/)
 
 ### 更多
 

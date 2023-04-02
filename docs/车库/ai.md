@@ -7,7 +7,7 @@
 
 ### More
 
-- [来自 Microsoft 必应的图像创建者](https://www.bing.com/images/create)
+- [Microsoft 图像创建者](https://www.bing.com/images/create)
 - [文心一格](https://yige.baidu.com/)
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
 - [ChatDOC](https://chatdoc.com/)
@@ -19,6 +19,9 @@
 - [NoFWL](https://github.com/lencx/nofwl)：桌面应用程序
 - [bilingual book maker](https://github.com/yihong0618/bilingual_book_maker)：使用 AI 翻译制作双语 epub 书籍
 - [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
+- [Chatbox](https://github.com/Bin-Huang/chatbox)
+- [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
+- [Free ChatGPT Site List](https://github.com/xx025/carrot)
 
 ### 第三方接口
 
