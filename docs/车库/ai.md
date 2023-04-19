@@ -1,6 +1,7 @@
 # Chatgpt
 
 - [Poe](https://poe.com/)
+- [AI Playground](https://play.vercel.ai/) 
 - [人工智能辅助](https://chat.ai-assist.moe/)
 - [若愚](https://ruoyu.dingyu.me/)
 - [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
