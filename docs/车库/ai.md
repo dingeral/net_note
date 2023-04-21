@@ -3,8 +3,6 @@
 - [Poe](https://poe.com/)
 - [AI Playground](https://play.vercel.ai/) 
 - [人工智能辅助](https://chat.ai-assist.moe/)
-- [若愚](https://ruoyu.dingyu.me/)
-- [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
 
 ### More
 
@@ -13,6 +11,9 @@
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
 - [ChatDOC](https://chatdoc.com/)
 - [AICodeHelper](https://www.aicodehelper.com/)：生成最佳 AI 代码
+- [Debate Devil](https://www.debate-devil.com/en): 一个AI辩论练习应用
+- [若愚](https://ruoyu.dingyu.me/)
+- [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
 
 ### Repositories
 
