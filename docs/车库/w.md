@@ -1,4 +1,12 @@
 ### Office 
 
 - [Microsoft 365](https://www.office.com/?auth=1)：个人
--[ Microsoft 365](https://www.office.com/?auth=2)：企业
+- [ Microsoft 365](https://www.office.com/?auth=2)：企业
+---
+- [OneDrive](https://onedrive.live.com/)
+- [Word](https://www.office.com/launch/word?auth=1)
+- [Excel](https://www.office.com/launch/excel?auth=1)
+- [Powerpoint](https://www.office.com/launch/powerpoint?auth=1)
+- [Outlook](https://outlook.live.com/mail/0/)
+- [Loop](https://loop.microsoft.com/)
+- 
