@@ -15,3 +15,5 @@
 ---
 
 - [Colaboratory](https://colab.research.google.com/)
+- [Vercel](https://vercel.com/)
+- [Cloudflare](https://dash.cloudflare.com/)
