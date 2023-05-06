@@ -1,11 +1,12 @@
 # Chatgpt
 
 - [Poe](https://poe.com/)
-- [AI Playground](https://play.vercel.ai/) 
+- [AI Playground](https://play.vercel.ai/)
 - [人工智能辅助](https://chat.ai-assist.moe/)
 
-### More
+## More
 
+- [chatbot](https://chat.chatbot.sex/chat/)
 - [Microsoft 图像创建者](https://www.bing.com/images/create)
 - [文心一格](https://yige.baidu.com/)
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
@@ -15,7 +16,7 @@
 - [若愚](https://ruoyu.dingyu.me/)
 - [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
 
-### Repositories
+## Repositories
 
 - [ChatGPT-API 演示](https://github.com/ddiu8081/chatgpt-demo)
 - [NoFWL](https://github.com/lencx/nofwl)：桌面应用程序
@@ -25,6 +26,6 @@
 - [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
 - [Free ChatGPT Site List](https://github.com/xx025/carrot)
 
-### 第三方接口
+## 第三方接口
 
 - [api2d](https://api2d.com/)
