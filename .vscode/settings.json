@@ -39,4 +39,5 @@
     "editor.tabSize": 4,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
+    "docsifyPreview.port": 10813,
 }

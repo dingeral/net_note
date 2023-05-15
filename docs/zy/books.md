@@ -1,5 +1,7 @@
 ### 找书
 
+- [Z-library 1](https://lib-bat2gpot3ukijyug2sc6rg7o.1lib.ph/)
+- [Z-library 1](https://lib-jeadkxlwgautcprmsts2d3ki.1lib.at)
 - [豆瓣](https://www.douban.com/)
 - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
 - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
