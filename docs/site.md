@@ -1,10 +1,7 @@
-- [飞书](https://e8aced0umw.feishu.cn/messenger/)
+# 常用
+
 - [Notion](https://www.notion.so/)
-- [Flomo](https://flomoapp.com/)
+- [Spotify](https://open.spotify.com/)
+- [Poe](https://poe.com/ChatGPT)
+- [Flomo](https://v.flomoapp.com/mine)
 <!-- - [Workflowy](https://workflowy.com/) -->
-- [Note](https://note.ms/dingeral)
-- [番茄时钟](https://www.tomatolist.com/timer.html)
-- [无歌](https://g.dingeral.ml/)
-- [Chatgpt](https://chat.openai.com/chat)
-- [知犀](https://www.zhixi.com/)
-- [天气](https://tianqi.qq.com/)
