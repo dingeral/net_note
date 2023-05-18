@@ -1,8 +1,8 @@
 # Chatgpt
 
+## 推荐
+
 - [Poe](https://poe.com/)
-- [AI Playground](https://play.vercel.ai/)
-- [人工智能辅助](https://chat.ai-assist.moe/)
 
 ## More
 
@@ -10,22 +10,11 @@
 - [Microsoft 图像创建者](https://www.bing.com/images/create)
 - [文心一格](https://yige.baidu.com/)
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
-- [ChatDOC](https://chatdoc.com/)
-- [AICodeHelper](https://www.aicodehelper.com/)：生成最佳 AI 代码
-- [Debate Devil](https://www.debate-devil.com/en): 一个AI辩论练习应用
-- [若愚](https://ruoyu.dingyu.me/)
-- [CatGPT](https://ai.okmiku.com/chat)：备用，自费，贵
+- [Debate Devil](https://www.debate-devil.com/en): 一个 AI 辩论练习应用
+- [AI Playground](https://play.vercel.ai/)
 
 ## Repositories
 
-- [ChatGPT-API 演示](https://github.com/ddiu8081/chatgpt-demo)
-- [NoFWL](https://github.com/lencx/nofwl)：桌面应用程序
 - [bilingual book maker](https://github.com/yihong0618/bilingual_book_maker)：使用 AI 翻译制作双语 epub 书籍
-- [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
-- [Chatbox](https://github.com/Bin-Huang/chatbox)
 - [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
 - [Free ChatGPT Site List](https://github.com/xx025/carrot)
-
-## 第三方接口
-
-- [api2d](https://api2d.com/)
