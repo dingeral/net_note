@@ -29,3 +29,5 @@
 - [笑来搜](http://xiaolai.co/search)
 
 - [元搜索](https://searx.tiekoetter.com/)：谷歌优秀替代品
+
+- [FQFA](https://fofa.info/)：网路搜索，慎用
