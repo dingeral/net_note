@@ -20,8 +20,6 @@
 
 - [iData](https://www.cn-ki.net/)：每日提供1～2篇下载
 
-- [浙江图书馆_知网](http://zjisa.zjlib.cn/login.jspx?returnUrl=http://zjisa.zjlib.cn/sso/auth.jsp?returnUrl=http://10.18.17.173/kns55/&appFlag=null&libCode=zjlib&elecId=E1CA8CA4AFD46557E040007F01001A9B)
-
 - [晨曦数字图书馆](https://31sanyi.neocities.org/zwsjk.html)
 
 - [AnyPaper](https://ifish.fun/paper/search)
