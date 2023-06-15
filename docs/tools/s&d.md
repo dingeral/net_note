@@ -4,7 +4,7 @@
 
 - [网盘搜索](https://www.alipansou.com/)
 
-- [网页存档](https://archive.org/)
+- [网页存档](https://archive.org/) [archive.today](https://archive.is/)
 
 - [Wikipedia](https://zh.wikipedia.org/)
 
