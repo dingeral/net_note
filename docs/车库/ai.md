@@ -1,6 +1,7 @@
 ## 推荐
 
 - [Poe](https://poe.com/)
+- [Skype  Bing](https://web.skype.com/)
 - [Bard](https://bard.google.com/)
 - [AI Playground](https://play.vercel.ai/)
 
