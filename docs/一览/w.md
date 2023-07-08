@@ -1,8 +1,5 @@
 - [Microsoft 365](https://www.office.com/?auth=1)：个人
 - [Microsoft 365](https://www.office.com/?auth=2)：企业
-
----
-
 - [OneDrive](https://onedrive.live.com/)
 - [Word](https://www.office.com/launch/word?auth=1)
 - [Excel](https://www.office.com/launch/excel?auth=1)
@@ -12,6 +9,7 @@
 
 ---
 
+- [Cloudflare](https://dash.cloudflare.com/)
 - [Colaboratory](https://colab.research.google.com/)
 - [Vercel](https://vercel.com/)
-- [Cloudflare](https://dash.cloudflare.com/)
+- [Hyperbeam](https://hyperbeam.com/app/)：云浏览器

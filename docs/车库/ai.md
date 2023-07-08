@@ -7,6 +7,7 @@
 
 ## More
 
+- [艺码](https://yima.me/)：AI 艺术二维码
 - [chatbot](https://chat.chatbot.sex/chat/)
 - [Microsoft 图像创建者](https://www.bing.com/images/create)
 - [文心一格](https://yige.baidu.com/)
