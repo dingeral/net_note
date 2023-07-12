@@ -3,7 +3,6 @@
 - [Poe](https://poe.com/)
 - [Skype  Bing](https://web.skype.com/)
 - [Bard](https://bard.google.com/)
-- [AI Playground](https://play.vercel.ai/)
 
 ## More
 
@@ -13,6 +12,7 @@
 - [文心一格](https://yige.baidu.com/)
 - [ChatPDF](https://www.chatpdf.com/)：一个专门用来读 pdf 的 chat
 - [Debate Devil](https://www.debate-devil.com/en): 一个 AI 辩论练习应用
+- [AI Playground](https://play.vercel.ai/)
 
 ## Repositories
 
