@@ -13,3 +13,4 @@
 - [Colaboratory](https://colab.research.google.com/)
 - [Vercel](https://vercel.com/)
 - [Hyperbeam](https://hyperbeam.com/app/)：云浏览器
+- [Freenom](https://www.freenom.com/zh/index.html?lang=zh)
