@@ -3,7 +3,6 @@
 - [豆瓣](https://www.douban.com/)
 - [Z-library-zh-IPFS](https://bk.hallowlib.org/)
 - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
-- [ReadHub｜读库](https://m.readhub.one/)
 - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
 - [寻书客服](https://ebooks.pages.dev/)
 - [鸠摩搜书](https://www.jiumodiary.com/)：诚通 / 百度网盘聚合搜索
@@ -29,6 +28,7 @@
 ### 更多
 
 - [无名图书](https://www.book123.info/)
+- [汇书网](https://www.huibooks.com/)
 - zLib Searcher
   1. <https://zlib.knat.network/>
   2. <https://zlib.9farm.com/>
