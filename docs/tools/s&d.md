@@ -10,7 +10,7 @@
 
 - [虫部落](http://www.chongbuluo.com/)
 
-- [无歌](https://g.dingeral.ml/)
+- [无歌](https://g.dingeral.top/)
 
 - [谷歌趋势](https://trends.google.com/trends/?geo=CN)
 
