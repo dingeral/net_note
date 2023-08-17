@@ -16,6 +16,4 @@
 
 ## Repositories
 
-- [bilingual book maker](https://github.com/yihong0618/bilingual_book_maker)：使用 AI 翻译制作双语 epub 书籍
 - [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
-- [Free ChatGPT Site List](https://github.com/xx025/carrot)
