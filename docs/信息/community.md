@@ -1,5 +1,4 @@
 - [Twitter](https://twitter.com/)
-- [TweetDeck](https://tweetdeck.twitter.com/)
 - [V2EX](https://www.v2ex.com/)
 - [科学网博客](https://blog.sciencenet.cn/blog.php)
 - [深度论坛](https://bbs.deepin.org/)

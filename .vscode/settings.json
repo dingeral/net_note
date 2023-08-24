@@ -40,4 +40,5 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "docsifyPreview.port": 10813,
+    "docsifyPreview.indexFile": "/index.html",
 }
