@@ -1,3 +1,6 @@
+- [Notion](https://www.notion.so/)
+- [Poe](https://poe.com/ChatGPT)
+- [Flomo](https://v.flomoapp.com/mine)
 - [Chatgpt](https://chat.openai.com/chat)
 - [Note](https://note.ms/dingeral)
 - [番茄时钟](https://www.tomatolist.com/timer.html)
