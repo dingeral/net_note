@@ -6,6 +6,7 @@
 
 ## More
 
+- [Perplexity](https://www.perplexity.ai/)：AI 整合搜索引擎
 - [艺码](https://yima.me/)：AI 艺术二维码
 - [chatbot](https://chat.chatbot.sex/chat/)
 - [Microsoft 图像创建者](https://www.bing.com/images/create)
