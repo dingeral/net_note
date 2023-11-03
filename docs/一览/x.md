@@ -9,3 +9,4 @@
 - [知犀](https://www.zhixi.com/)
 - [天气](https://tianqi.qq.com/)
 - [飞书](https://e8aced0umw.feishu.cn/messenger/)
+- [Qi Reader](https://www.qireader.com/)：优雅的在线 RSS 阅读器

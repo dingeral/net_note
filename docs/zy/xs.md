@@ -1,5 +1,7 @@
 ## 学术网站
 
+- [PubScholar](https://pubscholar.cn/)：中国科学院发布学术文献公益平台，免费看 8000 万篇资源
+
 - [知网](https://www.cnki.net/)
 
 - [谷歌学术](https://scholar.google.com/)
