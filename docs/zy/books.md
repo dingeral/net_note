@@ -11,8 +11,7 @@
 - [Library Genesis](http://libgen.rs)
 - [古腾堡计划](http://www.gutenberg.org)
 - [FreeBooks4Doctors](http://freebooks4doctors.com/)
-<!-- - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆
-- [书籍知识库](https://book.zhishikoo.com/) -->
+- [书籍知识库](https://book.zhishikoo.com/)
 
 ### 推荐
 
@@ -31,3 +30,6 @@
 - [Z-Library](https://z-lib.is/)
 - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 - [微信读书](https://weread.qq.com/)
+
+<!-- 
+- [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆 -->
