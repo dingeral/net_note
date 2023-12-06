@@ -19,3 +19,4 @@
 ## Repositories
 
 - [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
+- [ChatGPT API 水龙头](https://faucet.openkey.cloud/)：每24小时可领取一个 $1.00 令牌用于开发测试 AI 产品.
