@@ -5,7 +5,6 @@
 - [Word](https://www.office.com/launch/word?auth=1)
 - [Excel](https://www.office.com/launch/excel?auth=1)
 - [Powerpoint](https://www.office.com/launch/powerpoint?auth=1)
-
 - [Loop](https://loop.microsoft.com/)
 
 ---
