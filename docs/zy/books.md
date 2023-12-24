@@ -15,6 +15,7 @@
 
 ### 推荐
 
+- [Good Books](https://www.goodbooks.io/)：Discover the best book recommendations from the world's most successful, influential and interesting people.
 - [100X 阅读](https://100x.today/)
 - [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
