@@ -24,8 +24,6 @@
 
 - [Google](https://www.google.com/)
 
-- [谷歌镜像站](https://jia110.github.io/)
-
 - [笑来搜](http://xiaolai.co/search)
 
 - [元搜索](https://searx.tiekoetter.com/)：谷歌优秀替代品
