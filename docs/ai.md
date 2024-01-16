@@ -4,12 +4,14 @@
 - [Bing](https://web.skype.com/)
 - [Bard](https://bard.google.com/)
 
-
 ## 昙花
 
 - [One API](https://one.caifree.com/)
   - [ChatNextWeb](https://chat.caifree.com/#/)
   - [Lobel](https://lobe.caifree.com/chat#session=inbox)
+- [小强车队](https://www.xyhelper.com.cn/xq/)
+  - <https://free-6.xyhelper.cn/>
+  - <https://free-8.xyhelper.cn/>
 
 ## More
 
