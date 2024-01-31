@@ -8,7 +8,7 @@
 
 - [Free Plus](https://free.xyhelper.com.cn/)
 - [Shared Chat](https://sharedchat.cn/shared.html)
-- [One API](https://one.caifree.com/)
+- [One API](https://caifree.com/)
   - [ChatNextWeb](https://chat.caifree.com/#/)
   - [Lobel](https://lobe.caifree.com/chat#session=inbox)
 
