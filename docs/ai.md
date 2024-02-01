@@ -8,6 +8,7 @@
 
 - [Free Plus](https://free.xyhelper.com.cn/)
 - [Shared Chat](https://sharedchat.cn/shared.html)
+- <https://cc.gpt4fr.ee/>
 - [One API](https://caifree.com/)
   - [ChatNextWeb](https://chat.caifree.com/#/)
   - [Lobel](https://lobe.caifree.com/chat#session=inbox)
@@ -26,5 +27,6 @@
 
 ## Repositories
 
+- [Free ChatGPT Site List](https://github.com/xx025/carrot)
 - [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
 - [ChatGPT API 水龙头](https://faucet.openkey.cloud/)：每24小时可领取一个 $1.00 令牌用于开发测试 AI 产品.
