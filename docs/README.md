@@ -22,10 +22,6 @@
     <img
     src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"
 
-<!-- ![今日诗词](https://v2.jinrishici.com/one.svg) -->
-
-<!-- <img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=24&spacing=4" style="max-width:100%; display: block; margin: 0 auto;"> -->
-
 ## 视觉
 
 ![图片-刷新更换](https://source.unsplash.com/user/erondu/1600x900)
