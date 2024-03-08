@@ -5,7 +5,6 @@
 - [Word](https://www.office.com/launch/word?auth=1)
 - [Excel](https://www.office.com/launch/excel?auth=1)
 - [Powerpoint](https://www.office.com/launch/powerpoint?auth=1)
-- [Loop](https://loop.microsoft.com/)
 
 ---
 
@@ -14,5 +13,3 @@
 - [Vercel](https://vercel.com/)
 - [Hyperbeam](https://hyperbeam.com/app/)：云浏览器
 - [namesilo](https://www.namesilo.com/)
-- [Freenom](https://www.freenom.com/zh/index.html?lang=zh)
-- [Mover](https://mover.io)
