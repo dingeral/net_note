@@ -2,7 +2,7 @@
 
 - [豆瓣](https://www.douban.com/)
 
-- [网盘搜索](https://www.alipansou.com/)
+- [网盘搜索](https://yiso.fun/)
 
 - [网页存档](https://archive.org/) [archive.today](https://archive.is/)
 
