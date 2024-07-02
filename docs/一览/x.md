@@ -8,3 +8,5 @@
 - [天气](https://tianqi.qq.com/)
 - [飞书](https://e8aced0umw.feishu.cn/messenger/)
 - [Qi Reader](https://www.qireader.com/)：优雅的在线 RSS 阅读器
+- [屋舍](https://www.uhsea.com/)
+- [Cobalt](https://cobalt.tools/)
