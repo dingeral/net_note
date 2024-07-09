@@ -8,7 +8,7 @@
 - [Arxiv](https://arxiv.org/)：论文预印本
 - [谷粉学术论坛](http://bbs.99lb.net/)
 
-## 文献下载
+<!-- ## 文献下载 -->
 <!-- 
 - [iData](https://www.cn-ki.net/)：每日提供1～2篇下载//暂停
 
