@@ -1,5 +1,7 @@
 # 找书
 
+- [Z-Library](https://zh.z-library.rs/)
+- [Library Genesis](http://libgen.rs)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
 - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
@@ -8,7 +10,6 @@
 - [淘链客](https://taolinks.cc/)
 - [书格](https://new.shuge.org/)：在线古籍图书馆
 - [中国哲学书电子化计划](https://ctext.org/zh)
-- [Library Genesis](http://libgen.rs)
 - [古腾堡计划](http://www.gutenberg.org)
 - [FreeBooks4Doctors](http://freebooks4doctors.com/)
 - [书籍知识库](https://book.zhishikoo.com/)
@@ -28,7 +29,6 @@
 
 - [无名图书](https://www.book123.info/)
 - [汇书网](https://www.huibooks.com/)
-- [Z-Library](https://z-lib.is/)
 - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 - [微信读书](https://weread.qq.com/)
 
