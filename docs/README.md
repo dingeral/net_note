@@ -23,10 +23,6 @@
     src="https://v1.jinrishici.com/all.svg?font-size=20&spacing=4"
 div>
 
-## 视觉
-
-![图片-刷新更换](https://file.uhsea.com/2408/f553ab863f74de30fc889d028bf4b979D1.jpg)
-
 ## 目录
 
 - 📁 一览
