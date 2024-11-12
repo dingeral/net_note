@@ -1,6 +1,6 @@
 # 找书
 
-- [Z-Library](https://zh.z-library.rs/)
+- [Z-Library](https://z-library.sk/)
 - [Library Genesis](http://libgen.rs)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
