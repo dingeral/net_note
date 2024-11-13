@@ -1,7 +1,7 @@
 # 找书
 
 - [Z-Library](https://z-library.sk/)
-- [Library Genesis](http://libgen.rs)
+- [Library Genesis](https://libgen.is/)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
 - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
