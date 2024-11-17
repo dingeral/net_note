@@ -4,20 +4,13 @@
 - [Library Genesis](https://libgen.is/)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
-- [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
 - [TheFuture书籍搜索](https://ebooks.pages.dev/)
-- [鸠摩搜书](https://www.jiumodiary.com/)：诚通 / 百度网盘聚合搜索
-- [淘链客](https://taolinks.cc/)
-- [书格](https://new.shuge.org/)：在线古籍图书馆
-- [中国哲学书电子化计划](https://ctext.org/zh)
-- [古腾堡计划](http://www.gutenberg.org)
-- [FreeBooks4Doctors](http://freebooks4doctors.com/)
-- [书籍知识库](https://book.zhishikoo.com/)
+- [鸠摩搜书](https://www.jiumodiary.com/)
 
 ## 推荐
 
 - [Goodreads](https://goodreads.com)
-- [Good Books](https://www.goodbooks.io/)：Discover the best book recommendations from the world's most successful, influential and interesting people.
+- [Good Books](https://www.goodbooks.io/)
 - [100X 阅读](https://100x.nishuang.net/)
 - [读书笔记](https://reading.geek-docs.com/)
 - [Most Recommended Books](https://mostrecommendedbooks.com/)
@@ -27,10 +20,18 @@
 
 ## 更多
 
+- [Z-Library Pro 助手](https://zlib.pro/)
 - [无名图书](https://www.book123.info/)
 - [汇书网](https://www.huibooks.com/)
 - resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 - [微信读书](https://weread.qq.com/)
+<!-- - [淘链客](https://taolinks.cc/) -->
+- [书格](https://new.shuge.org/)：在线古籍图书馆
+- [中国哲学书电子化计划](https://ctext.org/zh)
+- [古腾堡计划](http://www.gutenberg.org)
+- [FreeBooks4Doctors](http://freebooks4doctors.com/)
+- [书籍知识库](https://book.zhishikoo.com/)
+- [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
 
 <!-- 
 - [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆 -->
