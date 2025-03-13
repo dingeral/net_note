@@ -19,3 +19,5 @@
 
 - [思谋学术](https://ac.scmor.com/)：谷歌学术镜像
 - [谷粉学术论坛](https://bbs.yuyingufen.com/)
+- [Academia.edu](https://www.academia.edu)
+- [ResearchGate](https://www.researchgate.net)
