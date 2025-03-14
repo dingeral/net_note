@@ -23,15 +23,11 @@
 - [Z-Library Pro 助手](https://zlib.pro/)
 - [无名图书](https://www.book123.info/)
 - [汇书网](https://www.huibooks.com/)
-- resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 - [微信读书](https://weread.qq.com/)
-<!-- - [淘链客](https://taolinks.cc/) -->
 - [书格](https://new.shuge.org/)：在线古籍图书馆
 - [中国哲学书电子化计划](https://ctext.org/zh)
 - [古腾堡计划](http://www.gutenberg.org)
 - [FreeBooks4Doctors](http://freebooks4doctors.com/)
 - [书籍知识库](https://book.zhishikoo.com/)
+- resilio sync：B2MLLPYY77HBCGR4RQJOVIWUVELWD4W2U
 - [FreeMbook](https://freembook.com/)：超星免费接口，最大的中文 PDF 库，1.7TB
-
-<!-- 
-- [LoreFree](https://ebook2.lorefree.com/)：去中心化图书馆 -->
