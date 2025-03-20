@@ -1,5 +1,6 @@
 # 找书
 
+- [安娜的档案](https://zh.annas-archive.org/)
 - [Z-Library](https://z-library.sk/)
 - [Library Genesis](https://libgen.is/)
 - [豆瓣](https://www.douban.com/)
