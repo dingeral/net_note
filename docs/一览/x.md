@@ -1,12 +1,5 @@
-- [Notion](https://www.notion.so/)
-- [Flomo](https://v.flomoapp.com/mine)
-- [Note](https://note.ms/dingeral)
-- [番茄时钟](https://www.tomatolist.com/timer.html)
-- [无歌](https://g.dingeral.ml/)
-- [Whimsical](https://whimsical.com/)：简单思维导图，没有多余的
-- [知犀](https://www.zhixi.com/)
-- [天气](https://tianqi.qq.com/)
-- [飞书](https://e8aced0umw.feishu.cn/messenger/)
-- [Qi Reader](https://www.qireader.com/)：优雅的在线 RSS 阅读器
-- [屋舍](https://www.uhsea.com/)
-- [Cobalt](https://cobalt.tools/)
+# X
+
+- [Libby](https://libbyapp.com/shelf)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [Twillot](https://www.twillot.com/twitter-bookmarks)

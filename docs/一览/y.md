@@ -1,4 +1,4 @@
-# 常用
+# Y
 
 - [Follow](https://app.follow.is/)
 - [Notion](https://www.notion.so/)
