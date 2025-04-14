@@ -10,6 +10,7 @@
 
 ## 推荐
 
+- [Download PDF magazines and ebook free](https://magazinelib.com/)
 - [Goodreads](https://goodreads.com)
 - [Good Books](https://www.goodbooks.io/)
 - [100X 阅读](https://100x.nishuang.net/)
