@@ -1,5 +1,6 @@
 # X
 
+- [沉浸式翻译 - 图片翻译](https://app.immersivetranslate.com/image/)
 - [Libby](https://libbyapp.com/shelf)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
