@@ -1,6 +1,6 @@
 # X
 
-- [沉浸式翻译 - 图片翻译](https://app.immersivetranslate.com/image/)
+- [Google 翻译](https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=images)
 - [Libby](https://libbyapp.com/shelf)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
