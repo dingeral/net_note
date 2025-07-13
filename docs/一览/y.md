@@ -1,20 +1,14 @@
-# Y
+# Y-Week
 
-- [Follow](https://app.follow.is/)
-- [Notion](https://www.notion.so/)
-- [Outlook](https://outlook.live.com/mail/0/)
-- [番茄时钟](https://www.tomatolist.com/timer.html)
-- [云拟稿](https://www.jianguoyun.com/#/sandbox/1a2dfd1/3f43826f6f2e99c5/%2F/)
 - [CloudFlare](https://dash.cloudflare.com/)
-
----
-
 - [Vercel](https://vercel.com/)
 - [Colaboratory](https://colab.research.google.com/)
 - [Hyperbeam](https://hyperbeam.com/app/)：云浏览器
-
----
-
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+- [Twillot](https://www.twillot.com/twitter-bookmarks)
+- [100Audio音频工具站 在线音频剪辑丨剪切丨编辑](https://100audio.com/sound/100audio_editor/)
+- [Pinterest](https://www.pinterest.com/)
+- [Instagram](https://www.instagram.com/explore/)
 - [Flomo](https://v.flomoapp.com/mine)
 - [Note](https://note.ms/dingeral)
 - [无歌](https://g.dingeral.ml/)
@@ -26,10 +20,3 @@
 - [Cobalt](https://cobalt.tools/)
 
 ---
-
-- [OneDrive](https://onedrive.live.com/)
-- [Microsoft 365](https://www.office.com/?auth=1)：个人
-- [Microsoft 365](https://www.office.com/?auth=2)：企业
-- [Word](https://www.office.com/launch/word?auth=1)
-- [Excel](https://www.office.com/launch/excel?auth=1)
-- [Powerpoint](https://www.office.com/launch/powerpoint?auth=1)

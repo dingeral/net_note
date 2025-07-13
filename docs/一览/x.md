@@ -1,13 +1,10 @@
-# X
+# X-Day
 
-- [Google 翻译](https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=images)
-- [Libby](https://libbyapp.com/shelf)
+- [知否](https://look.dingeral.top/know/)
+- [Follow](https://app.follow.is/)
+- [Notion](https://www.notion.so/)
 - [NotebookLM](https://notebooklm.google.com/)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-- [Twillot](https://www.twillot.com/twitter-bookmarks)
-- [100Audio音频工具站 在线音频剪辑丨剪切丨编辑](https://100audio.com/sound/100audio_editor/)
-
----
-
-- [Pinterest](https://www.pinterest.com/)
-- [Instagram](https://www.instagram.com/explore/)
+- [Outlook](https://outlook.live.com/mail/0/)
+- [番茄时钟](https://www.tomatolist.com/timer.html)
+- [Craft](https://docs.craft.do/)
+- [PlusAi](https://plusai.com/)
