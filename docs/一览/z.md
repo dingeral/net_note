@@ -12,3 +12,4 @@
 - [Word](https://www.office.com/launch/word?auth=1)
 - [Excel](https://www.office.com/launch/excel?auth=1)
 - [Powerpoint](https://www.office.com/launch/powerpoint?auth=1)
+- [关闭 Microsoft 帐户](https://support.microsoft.com/account-billing/how-to-close-your-microsoft-account-c1b2d13f-4de6-6e1b-4a31-d9d668849979?nochrome=true)
