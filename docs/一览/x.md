@@ -9,9 +9,7 @@
 
 ---
 
-## AI
-
-- [PlusAi](https://plusai.com/)
+- [PlusAI](https://plusai.me/)
 - [NotebookLM](https://notebooklm.google.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [Google Gemini](https://gemini.google.com/app)
