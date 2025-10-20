@@ -1,7 +1,8 @@
 # 找书
 
 - [安娜的档案](https://zh.annas-archive.org/)
-- [Z-Library](https://z-library.sk/) -> [zlibrary Guide](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_browser)
+- [Z-Library](https://z-library.sk/)
+- [Z-Library Guide](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_browser)
 - [Library Genesis](https://libgen.is/)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
