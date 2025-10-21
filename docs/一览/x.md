@@ -21,3 +21,4 @@
 
 - [微信读书](https://weread.qq.com/web/shelf)
 - [知否](https://look.dingeral.top/know/)
+- [AnkiWeb](https://ankiweb.net/decks)
