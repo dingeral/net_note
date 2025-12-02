@@ -1,6 +1,5 @@
 # X-Day
 
-- [YouTube Music](https://music.youtube.com/)
 - [Outlook](https://outlook.live.com/mail/0/)
 - [Follow](https://app.follow.is/)
 - [Craft](https://docs.craft.do/)
@@ -9,16 +8,21 @@
 
 ---
 
-- [PlusAI](https://plusai.me/)
+- [Google Gemini](https://gemini.google.com/app)
+- [Perplexity](https://www.perplexity.ai/)
 - [NotebookLM](https://notebooklm.google.com/)
 - [ChatGPT](https://chat.openai.com/)
-- [Google Gemini](https://gemini.google.com/app)
-- [Devvi ai](https://devv.ai)
-- [Perplexity](https://www.perplexity.ai/)
 - [iAsk](https://iask.ai/?mode=pro)
+- [Devvi ai](https://devv.ai)
 
 ---
 
-- [微信读书](https://weread.qq.com/web/shelf)
+- [微信阅读](https://weread.qq.com/web/shelf)
 - [知否](https://look.dingeral.top/know/)
 - [AnkiWeb](https://ankiweb.net/decks)
+- [Whimsical](https://whimsical.com/)：简单思维导图，没有多余的
+
+---
+
+- [PlusAI](https://plusai.me/)
+- [YouTube Music](https://music.youtube.com/)
