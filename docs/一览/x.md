@@ -24,5 +24,4 @@
 
 ---
 
-- [PlusAI](https://plusai.me/)
 - [YouTube Music](https://music.youtube.com/)
