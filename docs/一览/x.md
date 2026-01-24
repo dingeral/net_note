@@ -4,7 +4,6 @@
 - [Follow](https://app.follow.is/)
 - [Craft](https://docs.craft.do/)
 - [Notion](https://www.notion.so/)
-- [番茄时钟](https://www.tomatolist.com/timer.html)
 - [FMHY](https://fmhy.net/beginners-guide)
 
 ---
