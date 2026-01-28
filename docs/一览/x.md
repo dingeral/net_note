@@ -12,6 +12,7 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [NotebookLM](https://notebooklm.google.com/)
 - [ChatGPT](https://chat.openai.com/)
+- [Prism](https://prism.openai.com/)
 - [iAsk](https://iask.ai/?mode=pro)
 - [Devvi ai](https://devv.ai)
 
