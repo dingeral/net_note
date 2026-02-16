@@ -27,3 +27,4 @@
 
 - [YouTube Music](https://music.youtube.com/)
 - [番茄钟](https://pomodoro.811812.xyz/)
+- [YesMusic](https://music.811812.xyz/)
