@@ -8,16 +8,12 @@
 
 ---
 
+- [Claude](https://claude.ai/new)
 - [Google Gemini](https://gemini.google.com/app)
 - [NotebookLM](https://notebooklm.google.com/)
-- [ChatGPT](https://chat.openai.com/)
+- [ChatGPT](https://chatgpt.com/)
 - [Grok](https://grok.com/)
 - [M365 Copilot](https://m365.cloud.microsoft/chat/?auth=2)
-- [You](https://you.com/?chatMode=default)
-- [Prism](https://prism.openai.com/)
-- [iAsk](https://iask.ai/?mode=pro)
-- [Devvi ai](https://devv.ai)
-- [Perplexity](https://www.perplexity.ai/)
 
 ---
 
