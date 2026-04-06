@@ -1,13 +1,16 @@
 # 找书
 
 - [安娜的档案](https://zh.annas-archive.org/)
-- [Z-Library](https://z-library.sk/)
-- [Z-Library Guide](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_browser)
 - [Library Genesis](https://libgen.is/)
 - [豆瓣](https://www.douban.com/)
 - [Hallowlib](https://bk.hallowlib.org/)
 - [TheFuture书籍搜索](https://ebooks.pages.dev/)
 - [鸠摩搜书](https://www.jiumodiary.com/)
+
+## Z-Library
+
+- [Z-Library](https://z-library.sk/)
+- [Z-Library - Wikipedia](https://en.wikipedia.org/wiki/Z-Library)
 
 ## 推荐
 
@@ -23,7 +26,6 @@
 
 ## 更多
 
-- [Z-Library Pro 助手](https://zlib.pro/)
 - [无名图书](https://www.book123.info/)
 - [汇书网](https://www.huibooks.com/)
 - [微信读书](https://weread.qq.com/)
