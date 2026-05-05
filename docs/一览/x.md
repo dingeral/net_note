@@ -8,15 +8,6 @@
 
 ---
 
-- [Claude](https://claude.ai/new)
-- [Google Gemini](https://gemini.google.com/app)
-- [NotebookLM](https://notebooklm.google.com/)
-- [ChatGPT](https://chatgpt.com/)
-- [Grok](https://grok.com/)
-- [M365 Copilot](https://m365.cloud.microsoft/chat/?auth=2)
-
----
-
 - [微信阅读](https://weread.qq.com/web/shelf)
 - [知否](https://look.dingeral.top/know/)
 - [AnkiWeb](https://ankiweb.net/decks)
@@ -27,3 +18,16 @@
 - [YouTube Music](https://music.youtube.com/)
 - [番茄钟](https://pomodoro.811812.xyz/)
 - [YesMusic](https://music.811812.xyz/)
+
+---
+
+- [Claude](https://claude.ai/new)
+- [Google Gemini](https://gemini.google.com/app)
+- [NotebookLM](https://notebooklm.google.com/)
+- [ChatGPT](https://chatgpt.com/)
+- [Grok](https://grok.com/)
+- [M365 Copilot](https://m365.cloud.microsoft/chat/?auth=2)
+
+---
+
+- [Proton](https://proton.me/)
