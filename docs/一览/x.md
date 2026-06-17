@@ -2,7 +2,6 @@
 
 - [Outlook](https://outlook.live.com/mail/0/)
 - [Follow](https://app.follow.is/)
-- [Craft](https://docs.craft.do/)
 - [Notion](https://www.notion.so/)
 - [FMHY](https://fmhy.net/beginners-guide)
 
@@ -21,6 +20,7 @@
 
 ---
 
+- [v0](https://v0.app/dingeral)
 - [Claude](https://claude.ai/new)
 - [Google Gemini](https://gemini.google.com/app)
 - [NotebookLM](https://notebooklm.google.com/)
