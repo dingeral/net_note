@@ -4,6 +4,7 @@
 - [V2EX](https://www.v2ex.com/)
 - [LINUX DO](https://linux.do/)
 - [NodeSeek](https://www.nodeseek.com)
+- [Discord](https://discord.com/discovery/servers)
 
 ## Late
 
