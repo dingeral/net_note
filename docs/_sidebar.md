@@ -14,11 +14,11 @@
   - [分享](/zy/share.md)
 - 📁 工具
   - [常用](/tools/常用.md)
-  - [搜索](/tools/s&d.md)
-  - [利刃](tools/利刃.md)
+  - [搜索](/tools/sd.md)
+  - [利刃](/tools/利刃.md)
   - [数据](/tools/数据.md)
   - [软件](/tools/软件.md)
-  - [导航](tools/导航.md)
+  - [导航](/tools/导航.md)
 - 📁 信息
   - [新闻](/信息/新闻.md)
   - [社区](/信息/community.md)
